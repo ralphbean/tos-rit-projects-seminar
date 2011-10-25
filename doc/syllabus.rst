@@ -78,27 +78,27 @@ Schedule
 |1   |1  | Introductions, Syllabus,   |:doc:`first_flight`|                   |
 |    |   | Mailman, IRC, git, github  |                   |                   |
 +    +---+----------------------------+-------------------+-------------------+
-|    |2  | Bugfix deep dive           |                   |                   |
+|    |2  | Bugfix deep dive           |:doc:`bugfix`      |                   |
 +----+---+----------------------------+-------------------+-------------------+
 |2   |1  | Casual Games: Matching,    |                   |:doc:`first_flight`|
 |    |   | Sorting, and Seeking       |                   |                   |
 +    +---+----------------------------+-------------------+-------------------+
 |    |2  | Introduction to HTML5      |                   |                   |
 +----+---+----------------------------+-------------------+-------------------+
-|3   |1  | Casual Games: Managing,    |                   |                   |
+|3   |1  | Casual Games: Managing,    |                   |:doc:`bugfix`      |
 |    |   | Hitting, and Chaining      |                   |                   |
 +    +---+----------------------------+-------------------+-------------------+
 |    |2  | Audio, WebWorkers, and     |                   |                   |
 |    |   | CoffeeScript               |                   |                   |
 +----+---+----------------------------+-------------------+-------------------+
-|4   |1  | Casual Games: Constructing,|                   |                   |
+|4   |1  | Casual Games: Constructing,|:doc:`gamereview`  |                   |
 |    |   | Socializing, and Physics   |                   |                   |
 +    +---+----------------------------+-------------------+-------------------+
 |    |2  | Server choices, Social     |                   |                   |
 |    |   | APIs, and `le Cloud`.      |                   |                   |
 |    |   | (#openshift)               |                   |                   |
 +----+---+----------------------------+-------------------+-------------------+
-|5   |1  |                            |                   |                   |
+|5   |1  |                            |                   |:doc:`gamereview`  |
 +    +---+----------------------------+-------------------+-------------------+
 |    |2  |                            |                   |                   |
 +----+---+----------------------------+-------------------+-------------------+
@@ -169,11 +169,8 @@ hosted anywhere, but must be added to the course `planet
 
 ----
 
-The *homework assignments* vary but include,
-:doc:`homework/filling_out_the_survey`,
-:doc:`homework/patching_the_syllabus`, and
-:doc:`homework/patching_an_existing_project`.  Some of these assignments will be
-completed in class.
+The *homework assignments* are listed in the syllabus.  You will be able to
+complete some of these in class.
 
 ----
 
