@@ -4,20 +4,15 @@ Syllabus
 Projects Seminar in FLOSS Game Development
 ------------------------------------------
 
-Instructor - Ralph Bean <rjbpop@rit.edu>
-
-Time/Location - TBD
-
-IRC - TBD
-
-Course web page? - TBD
-
-Email list? - TBD
-
-Wiki? - TBD
-
-The source for this syllabus can be found at
-http://github.com/ralphbean/rit-tos-projects-seminar
+ - Instructor - Ralph Bean <rjbpop@rit.edu>
+ - Time/Location - TBD
+ - IRC - irc.freenode.net, #floss-seminar
+ - Course web page? - TBD
+ - Email list - `floss-seminar@lists.rit.edu
+   <https://lists.rit.edu/mailman/listinfo.cgi/floss-seminar>`_
+ - Wiki? - TBD
+ - The source for this syllabus can be found at
+   http://github.com/ralphbean/rit-tos-projects-seminar
 
 Goals of the course
 ---------------------
@@ -41,11 +36,11 @@ The spirit of the course
 ------------------------
 
 While still a course where you will receive a letter grade, the spirit of the
-course is intended to be both `open` and `fun`.  This is the first time the
-course if being offered, so an experimental approach will be taken.
+course is intended to be both `open` and `fun`.  This is a seminar course,
+so an experimental approach will be taken.
 
 An `open` course -- students will have access to the 'document source' for the
-syllabus and grading rubric.  While you are readding `the syllabus` right now,
+syllabus and grading rubric.  While you are reading `the syllabus` right now,
 as a student of the class you have a right to `fork the upstream repository
 <http://github.com/ralphbean/tos-rit-projects-seminar>`_, make modifications,
 and submit patches for review.  Barring a troll festival, this can create a fun,
@@ -77,10 +72,56 @@ course with an open source license, you're in the wrong course.
 Schedule
 --------
 
-(TODO)...
-
-Loosely, the first five weeks of the course will be based around the two
-textbooks and the second five weeks will be devoted to project updates.
++----+---+----------------------------+-------------------+-------------------+
+|Week|Day|Topic                       | Assigned          | Due               |
++----+---+----------------------------+-------------------+-------------------+
+|1   |1  | Introductions, Syllabus,   |:doc:`first_flight`|                   |
+|    |   | Mailman, IRC, git, github  |                   |                   |
++    +---+----------------------------+-------------------+-------------------+
+|    |2  | Bugfix deep dive           |                   |                   |
++----+---+----------------------------+-------------------+-------------------+
+|2   |1  | Casual Games:  Matching,   |                   |:doc:`first_flight`|
+|    |   | Sorting, and Seeking       |                   |                   |
++    +---+----------------------------+-------------------+-------------------+
+|    |2  | Introduction to HTML5      |                   |                   |
++----+---+----------------------------+-------------------+-------------------+
+|3   |1  | Casual Games:  Managing    |                   |                   |
+|    |   | Hitting, and Chaining      |                   |                   |
++    +---+----------------------------+-------------------+-------------------+
+|    |2  | Audio, WebWorkers, and     |                   |                   |
+|    |   | CoffeeScript               |                   |                   |
++----+---+----------------------------+-------------------+-------------------+
+|4   |1  | Casual Games:  Constructing|                   |                   |
+|    |   | Socializing, and Physics   |                   |                   |
++    +---+----------------------------+-------------------+-------------------+
+|    |2  | Server choices, Social     |                   |                   |
+|    |   | APIs, and `le Cloud`.      |                   |                   |
+|    |   | (#openshift)               |                   |                   |
++----+---+----------------------------+-------------------+-------------------+
+|5   |1  |                            |                   |                   |
++    +---+----------------------------+-------------------+-------------------+
+|    |2  |                            |                   |                   |
++----+---+----------------------------+-------------------+-------------------+
+|6   |1  |                            |                   |                   |
++    +---+----------------------------+-------------------+-------------------+
+|    |2  |                            |                   |                   |
++----+---+----------------------------+-------------------+-------------------+
+|7   |1  |                            |                   |                   |
++    +---+----------------------------+-------------------+-------------------+
+|    |2  |                            |                   |                   |
++----+---+----------------------------+-------------------+-------------------+
+|8   |1  |                            |                   |                   |
++    +---+----------------------------+-------------------+-------------------+
+|    |2  |                            |                   |                   |
++----+---+----------------------------+-------------------+-------------------+
+|9   |1  |                            |                   |                   |
++    +---+----------------------------+-------------------+-------------------+
+|    |2  |                            |                   |                   |
++----+---+----------------------------+-------------------+-------------------+
+|10  |1  |                            |                   |                   |
++    +---+----------------------------+-------------------+-------------------+
+|    |2  |                            |                   |                   |
++----+---+----------------------------+-------------------+-------------------+
 
 Grading
 -------
@@ -90,13 +131,13 @@ Your final grade for the quarter will be derived from the following weights.
 +--------------------------------------------------------+--------------+
 | Component                                              | Weight       |
 +========================================================+==============+
-|Class Participation (IRC, email list, in-class speaking)| 10%          |
+|In-Class Participation                                  | 10%          |
++--------------------------------------------------------+--------------+
+|FLOSS Dev Practices (Blogging, patching, writing, IRC)  | 15%          |
 +--------------------------------------------------------+--------------+
 |Homework Assignments                                    | 10%          |
 +--------------------------------------------------------+--------------+
 |Programming Assignments                                 | 15%          |
-+--------------------------------------------------------+--------------+
-|Blog Updates                                            | 15%          |
 +--------------------------------------------------------+--------------+
 |Paper Prototype                                         | 10%          |
 +--------------------------------------------------------+--------------+
@@ -105,7 +146,25 @@ Your final grade for the quarter will be derived from the following weights.
 
 ----
 
-*Class partitipation* will be subjectively determined by the instructor.
+*Class partitipation* is speaking in class, answering questions, etc...
+
+----
+
+*Blog updates* -- students are required to keep a blog to which they post updates
+about their investigations, progress, success, and pitfalls.  This blog can be
+hosted anywhere, but must be added to the course `planet
+<http://planet.teachingopensource.org/>`_.
+ - You must make at least one blog post per week to receive full credit.
+ - You must participate regularly in the course's IRC channel: asking and
+   answering questions.
+ - You must participate in the course's mailman list,
+   `floss-seminar@lists.rit.edu
+   <https://lists.rit.edu/mailman/listinfo.cgi/floss-seminar>`_.
+ - Contributions to the course curriculum, syllabus, and rubric are factored in
+   here as well.
+
+.. TODO -- setup and add a link to a real planet.  Should students submit to
+   big-planet-in-the-sky for teaching open source, as well?
 
 ----
 
@@ -126,20 +185,12 @@ Real-Time Games with HTML5, CSS3, and Javascript
 
 ----
 
-*Blog updates* -- students are required to keep a blog to which they post updates
-about their investigates, progress, success, and pitfalls.  This blog can be
-hosted anywhere, but must be added to the course `planet
-<http://planet.teachingopensource.org/>`_.  You must make at least one blog
-post per week to receive full credit.
-
-.. TODO -- setup and add a link to a real planet.  Should students submit to
-   big-planet-in-the-sky for teaching open source, as well?
-
-----
-
 Students' *paper prototypes* are presentations to the rest of the class on their
 idea for their game, *before a single line of code is written*.  You will
 be graded on preparation and presentation.
+
+.. note : these are 'play session'.  grade based on students notes on their own
+evaluation
 
 ----
 
@@ -149,10 +200,12 @@ graded according to the :doc:`final_project_rubric`.
 Lightning Talks
 ---------------
 
-Every Thursday for the first portion of class, any student has the opportunity
+Every Tuesday for the first portion of class, any student has the opportunity
 to give a `lightning talk <http://en.wikipedia.org/wiki/Lightning_Talk>` on a
 topic of their chosing.  Your lightning talk must be less than 5 minutes in
 length and must be at least remotely related to the course material.
 
 You will receive +1 extra credit points towards your final grade for every
-lightning talk you give.
+lightning talk you give.  Only the first three lightning talks offered will be
+allowed during a given class.  Talks will be chosen from among those offered by
+students on a FIFO basis.
