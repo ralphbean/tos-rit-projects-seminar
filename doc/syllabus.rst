@@ -195,8 +195,8 @@ be graded on preparation and presentation.
 Your *final project* will be the culmination of the quarter's work and will be
 graded according to the :doc:`final_project_rubric`.
 
-Lightning Talks
----------------
+Lightning Talks - Extra Credit
+------------------------------
 
 Every Tuesday for the first portion of class, any student has the opportunity
 to give a `lightning talk <http://en.wikipedia.org/wiki/Lightning_Talk>` on a
