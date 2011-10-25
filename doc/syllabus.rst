@@ -4,6 +4,7 @@ Syllabus
 Projects Seminar in FLOSS Game Development
 ------------------------------------------
 
+ - Syllabus - http://ritfloss.rtfd.org/
  - Instructor - Ralph Bean <rjbpop@rit.edu>
  - Time/Location - TBD
  - IRC - irc.freenode.net, #floss-seminar
@@ -13,6 +14,24 @@ Projects Seminar in FLOSS Game Development
  - Wiki? - TBD
  - The source for this syllabus can be found at
    http://github.com/ralphbean/rit-tos-projects-seminar
+
+Text Books
+----------
+
+.. _casual:
+
+Casual Game Design
+~~~~~~~~~~~~~~~~~~
+`Casual Game Design:  Designing Play for the Gamer in ALL of Us
+<http://www.amazon.com/Casual-Game-Design-Designing-Gamer/dp/0123749530>`_.
+
+.. _isometric:
+
+Making Isometric Social Real-Time Games with HTML5, CSS3, and Javascript
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`Making Isometric Social Real-Time Games with HTML5, CSS3, and Javascript.
+<http://www.amazon.com/Making-Isometric-Social-Real-Time-Javascript/dp/1449304753>`_
 
 Goals of the course
 ---------------------
@@ -75,7 +94,7 @@ Schedule
 +----+---+----------------------------+----------+-------------------+-------------------+
 |Week|Day|Topic                       |Reading   | Assigned          | Due               |
 +----+---+----------------------------+----------+-------------------+-------------------+
-|1   |1  | Introductions, Syllabus,   |          |:doc:`hw/fflight`  |                   |
+|1   |1  | Introductions, Syllabus,   |:ref:`1-1`|:doc:`hw/fflight`  |                   |
 |    |   | Mailman, IRC, git, github  |          |                   |                   |
 +    +---+----------------------------+----------+-------------------+-------------------+
 |    |2  | Bugfix deep dive           |:ref:`1-2`|:doc:`hw/bugfix`   |                   |
@@ -123,6 +142,82 @@ Schedule
 |    |2  | Finals Demos, Wrap-up      |          |                   |                   |
 |    |   | Discussion                 |          |                   |                   |
 +----+---+----------------------------+----------+-------------------+-------------------+
+
+Required Reading
+----------------
+
+
+.. _1-1:
+
+The Syllabus
+~~~~~~~~~~~~
+
+ - You're reading the syllabus right now.  It is posted at
+   http://ritfloss.rtfd.org/
+
+.. _1-2:
+
+The Open Source Way
+~~~~~~~~~~~~~~~~~~~
+
+ - http://ericholscher.com/blog/2009/nov/10/what-they-didnt-teach-me-college/
+ - TODO, gather more articles here.
+
+.. _2-1:
+
+Casual -  Week 2
+~~~~~~~~~~~~~~~~
+
+ - :ref:`casual`
+
+   - chapters 1-6 (139 pages).  It's light reading, trust me.
+
+.. _2-2:
+
+Isometric - Week 2
+~~~~~~~~~~~~~~~~~~
+
+ - :ref:`isometric`
+
+   - chapters 1-3 (65 pages).  This reading is not quite so
+     light.
+
+.. _3-1:
+
+Casual -  Week 3
+~~~~~~~~~~~~~~~~
+
+ - :ref:`casual`
+
+   - chapters 7-9 (36 pages)
+
+.. _3-2:
+
+Isometric - Week 3
+~~~~~~~~~~~~~~~~~~
+
+ - :ref:`isometric`
+
+   - chapter 4 (18 pages)
+
+.. _4-1:
+
+Casual -  Week 4
+~~~~~~~~~~~~~~~~
+
+ - :ref:`casual`
+
+   - chapters 10-12 (56 pages)
+
+.. _4-2:
+
+Isometric - Week 4
+~~~~~~~~~~~~~~~~~~
+
+ - :ref:`isometric`
+
+   - chapter 5 (25 pages)
+
 
 Grading
 -------
