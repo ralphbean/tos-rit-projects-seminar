@@ -7,7 +7,7 @@ Projects Seminar in FLOSS Game Development
  - Syllabus - http://ritfloss.rtfd.org/
  - Instructor - Ralph Bean <rjbpop@rit.edu>
  - Time/Location - TBD
- - IRC - irc.freenode.net, #floss-seminar
+ - IRC - irc.freenode.net, ``#floss-seminar``
  - Course web page? - TBD
  - Email list - `floss-seminar@lists.rit.edu
    <https://lists.rit.edu/mailman/listinfo.cgi/floss-seminar>`_
