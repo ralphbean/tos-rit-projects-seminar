@@ -154,6 +154,7 @@ Your final grade for the quarter will be derived from the following weights.
 about their investigations, progress, success, and pitfalls.  This blog can be
 hosted anywhere, but must be added to the course `planet
 <http://planet.teachingopensource.org/>`_.
+
  - You must make at least one blog post per week to receive full credit.
  - You must participate regularly in the course's IRC channel: asking and
    answering questions.
@@ -190,7 +191,7 @@ idea for their game, *before a single line of code is written*.  You will
 be graded on preparation and presentation.
 
 .. note : these are 'play session'.  grade based on students notes on their own
-evaluation
+   evaluation
 
 ----
 
