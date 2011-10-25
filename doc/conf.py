@@ -25,7 +25,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Teach Open Source @ RIT, Projects Seminar'
+project = u'Teaching Open Source @ RIT, Projects Seminar'
 copyright = u'2011, Ralph Bean, Rochester Institute of Technology'
 
 # The version info for the project you're documenting, acts as replacement for
