@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 import sys, os
 
 # If your extensions are in another directory, add it here. If the directory
