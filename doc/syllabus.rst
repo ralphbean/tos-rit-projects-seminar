@@ -80,18 +80,18 @@ Schedule
 +    +---+----------------------------+-------------------+-------------------+
 |    |2  | Bugfix deep dive           |                   |                   |
 +----+---+----------------------------+-------------------+-------------------+
-|2   |1  | Casual Games:  Matching,   |                   |:doc:`first_flight`|
+|2   |1  | Casual Games: Matching,    |                   |:doc:`first_flight`|
 |    |   | Sorting, and Seeking       |                   |                   |
 +    +---+----------------------------+-------------------+-------------------+
 |    |2  | Introduction to HTML5      |                   |                   |
 +----+---+----------------------------+-------------------+-------------------+
-|3   |1  | Casual Games:  Managing    |                   |                   |
+|3   |1  | Casual Games: Managing,    |                   |                   |
 |    |   | Hitting, and Chaining      |                   |                   |
 +    +---+----------------------------+-------------------+-------------------+
 |    |2  | Audio, WebWorkers, and     |                   |                   |
 |    |   | CoffeeScript               |                   |                   |
 +----+---+----------------------------+-------------------+-------------------+
-|4   |1  | Casual Games:  Constructing|                   |                   |
+|4   |1  | Casual Games: Constructing,|                   |                   |
 |    |   | Socializing, and Physics   |                   |                   |
 +    +---+----------------------------+-------------------+-------------------+
 |    |2  | Server choices, Social     |                   |                   |
