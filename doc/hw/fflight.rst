@@ -135,14 +135,15 @@ Patch the Course Project
 ------------------------
 
 Check out the source repository for this course; it's hosted at
-https://github.com/ralphbean/tos-rit-projects-seminar
+https://github.com/ralphbean/tos-rit-projects-seminar.
 
 Inside the repository, we'll keep an index of all the students in the course and
 metadata about them (you!).
 
 *Tasks*:
- - Fork the repository (link to `github help
-   <http://help.github.com/fork-a-repo/>`_ on this).
+ - Fork `the repository
+   <https://github.com/ralphbean/tos-rit-projects-seminar>`_ (link to
+   `github help <http://help.github.com/fork-a-repo/>`_ on this).
  - Clone a local copy.
  - Follow the instructions in ``README.rst`` to setup your environment.
  - Edit the file ``data/students.yaml``.  Perhaps obviously, it is
