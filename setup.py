@@ -12,6 +12,7 @@ setup(
     install_requires=[
         'Sphinx',
         'cloud_sptheme',
+        'pyyaml',
     ],
     url = "http://teachingopensource.org/index.php/RIT",
     download_url = "https://github.com/ralphbean/tos-rit-projects-seminar",
