@@ -8,22 +8,27 @@ Future tools could include things like scripts to produce blog/commit/unittest
 statistics.  This is also a place the syllabus could live, where students could
 fork and produce pull requests.
 
+Setting up your environment
+---------------------------
+
+Before you can do anything with this (build the documentation or run any of the
+scripts) you'll need to setup and activate a python `virtualenv
+<http://pypi.python.org/pypi/virtualenv>`_.  Run the following at the command
+prompt::
+
+ $ virtualenv --no-site-packages ~/sphinxenv # This creates it
+ $ source ~/sphinxenv/bin/activate           # This activates it
+ $ python setup.py develop                   # This will install packages to it
+
 Building the Documentation
 --------------------------
 
-To build the documentation, you'll need to have
-`Sphinx <http://sphinx.pocoo.org/>`_ installed as well as the ``cloud``
-sphinx theme.
+Make sure you have your virtualenv activated.
 
- $ virtualenv --no-site-packages ~/sphinxenv
- $ source ~/sphinxenv/bin/activate
- $ pip install sphinx
- $ pip install cloud_sptheme
-
-In the root directory, simply run::
+Being certain of that, in the root directory, simply run::
 
  $ sphinx-build -b html doc html-output
 
-The html documentation will be generated (obviously) in ``html-output/``.  Check
+The html documentation will be generated in ``html-output/``.  Check
 ``html-output/index.html`` to see if it exists.
 
