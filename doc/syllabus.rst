@@ -164,6 +164,7 @@ The Open Source Way
 ~~~~~~~~~~~~~~~~~~~
 
  - http://ericholscher.com/blog/2009/nov/10/what-they-didnt-teach-me-college/
+ - http://maymay.net/blog/2009/02/11/how-to-start-contributing-to-open-source-projects/
  - TODO, gather more articles here.
 
 .. _2-1:
