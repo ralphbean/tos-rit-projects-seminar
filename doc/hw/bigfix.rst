@@ -67,9 +67,9 @@ communicating with developers who have a lot on their plate so make sure to `be
 polite and leave your ego at the door
 <http://maymay.net/blog/2009/02/11/how-to-start-contributing-to-open-source-projects/>`_.
 
-Find the code related to the bug; whatever code navigation tools you're more
-familiar with.  The instructor's favorite method is:  ``grep -inr "some string"
-project_src/``.
+Find the code related to the bug; use whatever code navigation tools you're
+more familiar with.  The instructor's favorite method is:  ``grep -inr "some
+string" project_src/``.
 
 Fix the bug, this may require some thinking, and some more asking around.
 
