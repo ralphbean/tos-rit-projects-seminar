@@ -95,14 +95,14 @@ Schedule
 |1   |1  | Introductions, Syllabus,   |:ref:`1-1`|:doc:`hw/fflight`  |                   |
 |    |   | Mailman, IRC, git, github  |          |                   |                   |
 +    +---+----------------------------+----------+-------------------+-------------------+
-|    |2  | Bugfix deep dive           |:ref:`1-2`|:doc:`hw/bugfix`   |                   |
+|    |2  | Bugfix deep dive           |:ref:`1-2`|:doc:`hw/bigfix`   |                   |
 +----+---+----------------------------+----------+-------------------+-------------------+
 |2   |1  | Casual Games: Matching,    |:ref:`2-1`|                   |:doc:`hw/fflight`  |
 |    |   | Sorting, and Seeking       |          |                   |                   |
 +    +---+----------------------------+----------+-------------------+-------------------+
 |    |2  | Introduction to HTML5      |:ref:`2-2`|:doc:`program/1`   |                   |
 +----+---+----------------------------+----------+-------------------+-------------------+
-|3   |1  | Casual Games: Managing,    |:ref:`3-1`|                   |:doc:`hw/bugfix`   |
+|3   |1  | Casual Games: Managing,    |:ref:`3-1`|                   |:doc:`hw/bigfix`   |
 |    |   | Hitting, and Chaining      |          |                   |                   |
 +    +---+----------------------------+----------+-------------------+-------------------+
 |    |2  | Audio, WebWorkers, and     |:ref:`3-2`|:doc:`hw/rubric`   |:doc:`program/1`   |
