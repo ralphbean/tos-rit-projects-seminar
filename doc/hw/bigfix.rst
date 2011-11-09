@@ -29,6 +29,7 @@ projects to investigate off the top of your head, here's a list of suggestions.
 You might also find something neat over at bounty sites like:
 
  - http://gun.io/
+ - `OpenHatch <http://openhatch.org>`_
 
 Really, the sky is the limit here.
 
