@@ -141,6 +141,8 @@ Inside the repository, we'll keep an index of all the students in the course and
 metadata about them (you!).
 
 *Tasks*:
+ - Work through this `git tutorial <http://gitimmersion.com/index.html>`_ if you
+   don't have any experience with git.
  - Fork `the repository
    <https://github.com/ralphbean/tos-rit-projects-seminar>`_ (link to
    `github help <http://help.github.com/fork-a-repo/>`_ on this).
