@@ -93,6 +93,10 @@ This way, all developers blogging about ``Project X`` can have their blog posts
 fast-tracked to a readership subscribed to ``Planet X``.  For instance, here's a
 link to `Planet Python <http://planet.python.org/>`_.
 
+The Planet for the course is hosted at http://threebean.org/floss-planet/.
+There are instructions for how to subscribe your blog to it in the `Patch the
+Course Project` section below.
+
 You must create a blog (if you don't have one already) and write at least one
 post per week about your progress, attempts, successes, failures, reflections,
 and/or all of the above.
@@ -153,6 +157,10 @@ metadata about them (you!).
    necessary keywords.
  - Verify that you added yourself correctly by running the script located at
    ``lib/ritfloss/model/validate.py``
+ - Edit the file ``planet/config.ini``.  Look at the very bottom of the file and
+   there will be the beginnings of a list of subscribed blogs.  Add your blog's
+   RSS feed (or a topical sub-feed) to this list.  Make sure its a working RSS
+   URL!
  - If everything checks out, then
 
    - Commit your change

@@ -252,7 +252,8 @@ Your final grade for the quarter will be derived from the following weights.
 *Blog updates* -- students are required to keep a blog to which they post updates
 about their investigations, progress, success, and pitfalls.  This blog can be
 hosted anywhere, but must be added to the course `planet
-<http://planet.teachingopensource.org/>`_.
+<http://threebean.org/floss-planet/>`_ (there are instructions on how to do this
+in :doc:`fflight`).
 
  - You must make at least one blog post per week to receive full credit.
  - You must participate regularly in the course's IRC channel: asking and
@@ -262,9 +263,6 @@ hosted anywhere, but must be added to the course `planet
    <https://lists.rit.edu/mailman/listinfo.cgi/floss-seminar>`_.
  - Contributions to the course curriculum, syllabus, and rubric are factored in
    here as well.
-
-.. TODO -- setup and add a link to a real planet.  Should students submit to
-   big-planet-in-the-sky for teaching open source, as well?
 
 ----
 
