@@ -99,4 +99,4 @@ possible to documentation.
  - Snippets of any relevant IRC conversations.
 
 You will be graded on your post and the explanation of your process.  Extra
-credit for super epic patches.
+kudos (but not extra credit) for super epic patches.
