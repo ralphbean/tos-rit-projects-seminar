@@ -257,7 +257,7 @@ Your final grade for the quarter will be derived from the following weights.
 about their investigations, progress, success, and pitfalls.  This blog can be
 hosted anywhere, but must be added to the course `planet
 <http://threebean.org/floss-planet/>`_ (there are instructions on how to do this
-in :doc:`fflight`).
+in :doc:`hw/fflight`).
 
  - You must make at least one blog post per week to receive full credit.
  - You must participate regularly in the course's IRC channel: asking and
