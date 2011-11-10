@@ -15,8 +15,10 @@ projects to investigate off the top of your head, here's a list of suggestions.
 
  - The `Battle for Wesnoth <http://www.wesnoth.org/>`_
  - `js.io <https://github.com/gameclosure/js.io>`_
- - The `Linux Kernel (!)
-   <https://bugs.launchpad.net/bugs/bugtrackers/linux-kernel-bugs>`_
+ - The Linux Kernel (`bugzilla is down
+   <http://comments.gmane.org/gmane.linux.kernel/1209650>`_, you could try
+   `looking here
+   <https://bugzilla.redhat.com/enter_bug.cgi?product=Fedora&version=rawhide&component=kernel>`_
  - `liveusb-creator <https://fedorahosted.org/liveusb-creator/>`_
  - The `Mozilla Project <https://bugzilla.mozilla.org/>`_
  - `node.js <http://nodejs.org/>`_
