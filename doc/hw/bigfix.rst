@@ -24,7 +24,7 @@ projects to investigate off the top of your head, here's a list of suggestions.
  - `Toscawidgets 2 (web widgets)
    <http://tw2core.readthedocs.org/en/latest/index.html>`_
  - `Turbogears 2 (web framework) <http://turbogears.org/>`_
- - The `Ur-Quan Master <http://sc2.sourceforge.net/>`_
+ - The `Ur-Quan Masters <http://sc2.sourceforge.net/>`_
 
 You might also find something neat over at bounty sites like:
 
