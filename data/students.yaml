@@ -34,3 +34,10 @@
   forges:
     - http://github.com/Qalthos
     - http://gitorious.org/~qalthos
+- name:     Remy DeCausemaker
+  rit_dce:  remydcsi
+  blog:     http://foss.rit.edu/blog/decause
+  irc:      decause
+  forges:
+    - http://github.com/decause
+    - http://bitbucket.org/decause
