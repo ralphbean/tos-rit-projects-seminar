@@ -10,7 +10,8 @@ Fill out the survey
 -------------------
 
 *Tasks*:
-  - Your first task is to fill out the survey located here: `TODO`_
+  - Your first task is to fill out the survey located here:
+    https://clipboard.rit.edu/take.cfm?sid=E958FABE
 
 It's anonymous, but the results will be published back to the whole class so we
 have a feel for the technical level and preferences coming into the course.
@@ -104,7 +105,6 @@ and/or all of the above.
 *Tasks*:
  - Create a blog if you don't already have one.  There are lots of free services
    available.  You might try http://wordpress.com or http://blogspot.com.
- - Subscribe the relevant topics to the course `planet TODO`.
  - Write an introductory post relevant to the course.  The topic is your choice!
 
 github
@@ -160,7 +160,9 @@ metadata about them (you!).
  - Edit the file ``planet/config.ini``.  Look at the very bottom of the file and
    there will be the beginnings of a list of subscribed blogs.  Add your blog's
    RSS feed (or a topical sub-feed) to this list.  Make sure its a working RSS
-   URL!
+   URL!  (Once the patch is accepted upstream and pushed to production, this
+   should add your blog feed to the `course planet
+   <http://threebean.org/floss-planet/>`_.)
  - If everything checks out, then
 
    - Commit your change
