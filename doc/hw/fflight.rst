@@ -86,7 +86,8 @@ encounter a technical challenge, typically you google for a solution and you
 typically find that solution in a blog post of some developer who has run into
 a similar situation.  Blogging about your attempts, successes and failures
 (and writing tutorials!) is a best practice for increasing the general body of
-searchable knowledge available.
+searchable knowledge available, for increasing the `Wisdom of the Ancients
+<http://xkcd.com/979/>`_.
 
 Blogs around a topic are also typically aggregated by a `planet
 <http://en.wikipedia.org/wiki/Planet_(software)>`_ (an RSS feed aggregator).

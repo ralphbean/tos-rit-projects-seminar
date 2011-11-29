@@ -280,6 +280,9 @@ in :doc:`hw/fflight`).
  - Contributions to the course curriculum, syllabus, and rubric are factored in
    here as well.
 
+Blogging is good for you and good for the `FLOSS community at large
+<http://xkcd.com/979/>`_.
+
 ----
 
 The *homework assignments* are listed in the syllabus.  You will be able to
