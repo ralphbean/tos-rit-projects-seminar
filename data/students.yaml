@@ -27,3 +27,10 @@
   forges:
     - http://github.com/ralphbean
     - http://bitbucket.org/ralphbean
+- name:     Nathaniel Case
+  rit_dce:  ndc8551
+  blog:     http://blog.linkybook.com
+  irc:      Qalthos
+  forges:
+    - http://github.com/Qalthos
+    - http://gitorious.org/~qalthos
