@@ -299,11 +299,16 @@ There are two assignments:
 ----
 
 Students' *paper prototypes* are presentations to the rest of the class on their
-idea for their game, *before a single line of code is written*.  You will
-be graded on preparation and presentation.
+idea for their game, *before a single line of code is written*.
 
-.. note : these are 'play session'.  grade based on students notes on their own
-   evaluation
+These are 'play sessions'.  You will need to bring some playable version of your
+game so we can all try it out.  For instance, if you're thinking about a
+first-person-shooter, come with a set of rules for playing 'pointing tag' and
+we'll all really play it, in person.
+
+The rest of the students will comment on your prototype.  Take notes and:
+ - Use them to improve your design
+ - Turn in a copy for your grade
 
 ----
 
