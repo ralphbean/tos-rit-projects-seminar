@@ -20,6 +20,10 @@ prompt::
  $ source ~/sphinxenv/bin/activate           # This activates it
  $ python setup.py develop                   # This will install packages to it
 
+.. note::  This has only been tested on Linux, although it is definitely
+   possible on Windows and OS X.  If you encounter problems setting up your
+   virtualenv on any environment, please edit this file and add a GOTCHA.
+
 Building the Documentation
 --------------------------
 
