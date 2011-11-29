@@ -89,7 +89,7 @@ a similar situation.  Blogging about your attempts, successes and failures
 searchable knowledge available.
 
 Blogs around a topic are also typically aggregated by a `planet
-<http://en.wikipedia.org/wiki/Planet_(software)>` (an RSS feed aggregator).
+<http://en.wikipedia.org/wiki/Planet_(software)>`_ (an RSS feed aggregator).
 This way, all developers blogging about ``Project X`` can have their blog posts
 fast-tracked to a readership subscribed to ``Planet X``.  For instance, here's a
 link to `Planet Python <http://planet.python.org/>`_.
