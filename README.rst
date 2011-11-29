@@ -24,6 +24,15 @@ prompt::
    possible on Windows and OS X.  If you encounter problems setting up your
    virtualenv on any environment, please edit this file and add a GOTCHA.
 
+Gotchas
++++++++
+
+The project requires Python 2.x to setup properly.  If your default Python is 3.x, you need to tell virtualenv to use Python 2
+
+ $ virtualenv --no-site-packages -p python2 ~/sphinxenv
+
+Replacing python2 with whatever you use to run Python 2.x normally.
+
 Building the Documentation
 --------------------------
 
