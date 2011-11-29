@@ -6,7 +6,7 @@ try:
     from yaml import CLoader as Loader
 except ImportError:
     # This is written in pure python.  Not as fast.
-    from yaml import Loader, Dumper
+    from yaml import Loader
 
 def load_students(fname=None):
     if not fname:
