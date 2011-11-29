@@ -10,7 +10,8 @@ Fill out the survey
 -------------------
 
 *Tasks*:
-  - Your first task is to fill out the survey located here: `TODO`_
+  - Your first task is to fill out the survey located here:
+    https://clipboard.rit.edu/take.cfm?sid=E958FABE
 
 It's anonymous, but the results will be published back to the whole class so we
 have a feel for the technical level and preferences coming into the course.
@@ -23,7 +24,7 @@ means of communication for a `FLOSS
 <http://en.wikipedia.org/wiki/Free_and_open_source_software>`_ community,
 particularly for `informal` communication.
 
-There is a course `IRC` channel on irc.freenode.net.  The channel is
+There is a course `IRC` channel on ``irc.freenode.net``.  The channel is
 ``#floss-seminar``.  Communicating regularly in `IRC` factors into the `FLOSS
 Dev Practices` component of your final grade.
 
@@ -36,7 +37,7 @@ Dev Practices` component of your final grade.
 
  - Choose a nick and `register yourself with the NickServ
    <http://freenode.net/faq.shtml#userregistration>`_.
- - Connect to ``#floss-seminar`` and introduce yourself.
+ - Connect to ``#floss-seminar`` on ``irc.freenode.net`` and introduce yourself.
 
    - The instructor's nick is ``threebean``.
 
@@ -85,13 +86,18 @@ encounter a technical challenge, typically you google for a solution and you
 typically find that solution in a blog post of some developer who has run into
 a similar situation.  Blogging about your attempts, successes and failures
 (and writing tutorials!) is a best practice for increasing the general body of
-searchable knowledge available.
+searchable knowledge available, for increasing the `Wisdom of the Ancients
+<http://xkcd.com/979/>`_.
 
 Blogs around a topic are also typically aggregated by a `planet
-<http://en.wikipedia.org/wiki/Planet_(software)>` (an RSS feed aggregator).
+<http://en.wikipedia.org/wiki/Planet_(software)>`_ (an RSS feed aggregator).
 This way, all developers blogging about ``Project X`` can have their blog posts
 fast-tracked to a readership subscribed to ``Planet X``.  For instance, here's a
 link to `Planet Python <http://planet.python.org/>`_.
+
+The Planet for the course is hosted at http://threebean.org/floss-planet/.
+There are instructions for how to subscribe your blog to it in the `Patch the
+Course Project` section below.
 
 You must create a blog (if you don't have one already) and write at least one
 post per week about your progress, attempts, successes, failures, reflections,
@@ -100,7 +106,6 @@ and/or all of the above.
 *Tasks*:
  - Create a blog if you don't already have one.  There are lots of free services
    available.  You might try http://wordpress.com or http://blogspot.com.
- - Subscribe the relevant topics to the course `planet TODO`.
  - Write an introductory post relevant to the course.  The topic is your choice!
 
 github
@@ -111,25 +116,26 @@ the more popular sites are `github <http://github.com>`_, `bitbucket
 <http://bitbucket.org>`_, `sourceforge <http://sourceforge.net/>`_, and
 `launchpad <https://launchpad.net/>`_.
 
+For your own enlightenment, review the following comparisons of the different
+forges:
+
+ - `Timeline <http://flossmole.org/content/when-were-forges-established>`_
+ - `Metadata
+   <http://flossmole.org/content/project-metadata-matrix-june-2011>`_
+ - `Artifacts
+   <http://flossmole.org/content/artifacts-matrix-code-forges-june-2011>`_
+ - `Features
+   <http://flossmole.org/content/feature-matrix-code-forges-june-2011>`_
+ - `Revision control
+   <http://flossmole.org/content/revision-control-matrix-june-2011>`_
+ - `Policies <http://flossmole.org/content/forge-policy-matrix-june-2011>`_
+
 You'll need to create your own account on github.com.  All development for this
 course should be tracked on that forge.  Github is, after all, `the most popular
 forge <https://github.com/blog/865-github-dominates-the-forges>`_.
 
 *Tasks*:
  - Create a `github <http://github.com>`_ account if you don't already have one.
- - For your own enlightenment, review the following comparisons of the different
-   forges:
-
-   - `Timeline <http://flossmole.org/content/when-were-forges-established>`_
-   - `Metadata
-     <http://flossmole.org/content/project-metadata-matrix-june-2011>`_
-   - `Artifacts
-     <http://flossmole.org/content/artifacts-matrix-code-forges-june-2011>`_
-   - `Features
-     <http://flossmole.org/content/feature-matrix-code-forges-june-2011>`_
-   - `Revision control
-     <http://flossmole.org/content/revision-control-matrix-june-2011>`_
-   - `Policies <http://flossmole.org/content/forge-policy-matrix-june-2011>`_
 
 Patch the Course Project
 ------------------------
@@ -153,6 +159,12 @@ metadata about them (you!).
    necessary keywords.
  - Verify that you added yourself correctly by running the script located at
    ``lib/ritfloss/model/validate.py``
+ - Edit the file ``planet/config.ini``.  Look at the very bottom of the file and
+   there will be the beginnings of a list of subscribed blogs.  Add your blog's
+   RSS feed (or a topical sub-feed) to this list.  Make sure its a working RSS
+   URL!  (Once the patch is accepted upstream and pushed to production, this
+   should add your blog feed to the `course planet
+   <http://threebean.org/floss-planet/>`_.)
  - If everything checks out, then
 
    - Commit your change

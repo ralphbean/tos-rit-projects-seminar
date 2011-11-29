@@ -6,10 +6,13 @@ Projects Seminar in FLOSS Game Development
 
  - Syllabus - http://ritfloss.rtfd.org/ -- (subject to change)
  - Instructor - Ralph Bean <rjbpop@rit.edu>
- - Time/Location - TBD
+ - Course Number - 4080.590.01
+ - Room - Orange Hall, Room 1380 (013-1380)
+ - Tuesday, Thursday -- 10:00am-11:50am
  - IRC - irc.freenode.net, ``#floss-seminar``
  - Email list - `floss-seminar@lists.rit.edu
    <https://lists.rit.edu/mailman/listinfo.cgi/floss-seminar>`_
+ - Blog Planet - http://threebean.org/floss-planet
  - The source for this syllabus can be found at
    http://github.com/ralphbean/tos-rit-projects-seminar
 
@@ -108,22 +111,27 @@ Schedule
 |    |2  | Audio, WebWorkers, and     |:ref:`3-2`|:doc:`hw/rubric`   |:doc:`program/1`   |
 |    |   | CoffeeScript               |          |                   |                   |
 +----+---+----------------------------+----------+-------------------+-------------------+
-|4   |1  | Casual Games: Constructing,|:ref:`4-1`|:doc:`hw/review`   |                   |
+|    |   | <!--                       |          |                   |                   |
+|    |   |                            |          |                   |                   |
+|    |   |     Holiday Break          |          |                   |                   |
+|    |   | -->                        |          |                   |                   |
++----+---+----------------------------+----------+-------------------+-------------------+
+|4   |1  | Pitch Session : Talk about |          |                   |                   |
+|    |   | your game.                 |          |                   |                   |
++    +---+----------------------------+----------+-------------------+-------------------+
+|    |2  | Paper Prototypes : Lecture |          |                   |                   |
+|    |   | and Build                  |          |                   |                   |
++----+---+----------------------------+----------+-------------------+-------------------+
+|5   |1  | Casual Games: Constructing,|:ref:`4-1`|:doc:`hw/review`   |                   |
 |    |   | Socializing, and Physics   |          |                   |                   |
 +    +---+----------------------------+----------+-------------------+-------------------+
-|    |2  | Server choices, Social     |:ref:`4-2`|:doc:`program/2`   |                   |
+|    |2  | Server choices, Social     |:ref:`4-2`|:doc:`program/2`   | :doc:`hw/rubric`  |
 |    |   | APIs, and `le Cloud`.      |          |                   |                   |
 |    |   | (#openshift)               |          |                   |                   |
 +----+---+----------------------------+----------+-------------------+-------------------+
-|5   |1  | Pitch Session : Talk about |          |                   |:doc:`hw/review`   |
-|    |   | your game.                 |          |                   |                   |
+|6   |1  | Paper Prototypes : Play    |          |                   |:doc:`hw/review`   |
 +    +---+----------------------------+----------+-------------------+-------------------+
-|    |2  | Paper Prototypes : Lecture |          |                   |:doc:`program/2`   |
-|    |   | and Build                  |          |                   |                   |
-+----+---+----------------------------+----------+-------------------+-------------------+
-|6   |1  | Paper Prototypes : Play    |          |                   |                   |
-+    +---+----------------------------+----------+-------------------+-------------------+
-|    |2  | Guest Lecture              |          |                   |:doc:`hw/rubric`   |
+|    |2  | Guest Lecture              |          |                   |:doc:`program/2`   |
 +----+---+----------------------------+----------+-------------------+-------------------+
 |7   |1  | Digital Prototype : Build  |          |                   |                   |
 +    +---+----------------------------+----------+-------------------+-------------------+
@@ -163,8 +171,16 @@ The Syllabus
 The Open Source Way
 ~~~~~~~~~~~~~~~~~~~
 
- - http://ericholscher.com/blog/2009/nov/10/what-they-didnt-teach-me-college/
- - TODO, gather more articles here.
+ - `What they didn't teach me in college
+   <http://ericholscher.com/blog/2009/nov/10/what-they-didnt-teach-me-college/>`_
+ - `How to Start Contributing to Open Source Projects
+   <http://maymay.net/blog/2009/02/11/how-to-start-contributing-to-open-source-projects/>`_
+ - `Understanding Open Source Licensing
+   <http://openacs.org/about/licensing/open-source-licensing>`_
+ - `Revitalizing Computing Education Through Free and Open Source Software
+   <http://www.cs.trincoll.edu/~ram/pubs/CACM09-Morelli.pdf>`_
+ - `Why Open Source Misses the Point of Free Software
+   <http://www.gnu.org/philosophy/open-source-misses-the-point.html>`_
 
 .. _2-1:
 
@@ -252,7 +268,8 @@ Your final grade for the quarter will be derived from the following weights.
 *Blog updates* -- students are required to keep a blog to which they post updates
 about their investigations, progress, success, and pitfalls.  This blog can be
 hosted anywhere, but must be added to the course `planet
-<http://planet.teachingopensource.org/>`_.
+<http://threebean.org/floss-planet/>`_ (there are instructions on how to do this
+in :doc:`hw/fflight`).
 
  - You must make at least one blog post per week to receive full credit.
  - You must participate regularly in the course's IRC channel: asking and
@@ -263,8 +280,8 @@ hosted anywhere, but must be added to the course `planet
  - Contributions to the course curriculum, syllabus, and rubric are factored in
    here as well.
 
-.. TODO -- setup and add a link to a real planet.  Should students submit to
-   big-planet-in-the-sky for teaching open source, as well?
+Blogging is good for you and good for the `FLOSS community at large
+<http://xkcd.com/979/>`_.
 
 ----
 
@@ -278,16 +295,23 @@ derived from one of the course's two textbooks, `Making Isometric Social
 Real-Time Games with HTML5, CSS3, and Javascript
 <http://www.amazon.com/Making-Isometric-Real-Time-JavaScript-ebook/dp/B005KOJ4DK/ref=dp_kinw_strp_1?ie=UTF8&m=AG56TWVU5XWC2>`_.
 
-.. TODO -- add links to those two assignments
+There are two assignments:
+ - :doc:`program/1`
+ - :doc:`program/2`
 
 ----
 
 Students' *paper prototypes* are presentations to the rest of the class on their
-idea for their game, *before a single line of code is written*.  You will
-be graded on preparation and presentation.
+idea for their game, *before a single line of code is written*.
 
-.. note : these are 'play session'.  grade based on students notes on their own
-   evaluation
+These are 'play sessions'.  You will need to bring some playable version of your
+game so we can all try it out.  For instance, if you're thinking about a
+first-person-shooter, come with a set of rules for playing 'pointing tag' and
+we'll all really play it, in person.
+
+The rest of the students will comment on your prototype.  Take notes and:
+ - Use them to improve your design
+ - Turn in a copy for your grade
 
 ----
 

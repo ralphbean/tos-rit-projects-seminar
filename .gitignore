@@ -2,3 +2,5 @@
 html-output
 *.egg*
 *_build
+*.pyc
+*.pdf

@@ -22,7 +22,7 @@
 
 - name:     Ralph Bean
   rit_dce:  rjbpop
-  blog:     threebean.wordpress.com
+  blog:     http://threebean.wordpress.com
   irc:      threebean
   forges:
     - github.com/ralphbean

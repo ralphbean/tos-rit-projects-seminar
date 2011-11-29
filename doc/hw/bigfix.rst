@@ -15,8 +15,10 @@ projects to investigate off the top of your head, here's a list of suggestions.
 
  - The `Battle for Wesnoth <http://www.wesnoth.org/>`_
  - `js.io <https://github.com/gameclosure/js.io>`_
- - The `Linux Kernel (!)
-   <https://bugs.launchpad.net/bugs/bugtrackers/linux-kernel-bugs>`_
+ - The Linux Kernel (`bugzilla is down
+   <http://comments.gmane.org/gmane.linux.kernel/1209650>`_, you could try
+   `looking here
+   <https://bugzilla.redhat.com/enter_bug.cgi?product=Fedora&version=rawhide&component=kernel>`_
  - `liveusb-creator <https://fedorahosted.org/liveusb-creator/>`_
  - The `Mozilla Project <https://bugzilla.mozilla.org/>`_
  - `node.js <http://nodejs.org/>`_
@@ -24,7 +26,7 @@ projects to investigate off the top of your head, here's a list of suggestions.
  - `Toscawidgets 2 (web widgets)
    <http://tw2core.readthedocs.org/en/latest/index.html>`_
  - `Turbogears 2 (web framework) <http://turbogears.org/>`_
- - The `Ur-Quan Master <http://sc2.sourceforge.net/>`_
+ - The `Ur-Quan Masters <http://sc2.sourceforge.net/>`_
 
 You might also find something neat over at bounty sites like:
 
@@ -99,4 +101,4 @@ possible to documentation.
  - Snippets of any relevant IRC conversations.
 
 You will be graded on your post and the explanation of your process.  Extra
-credit for super epic patches.
+kudos (but not extra credit) for super epic patches.
