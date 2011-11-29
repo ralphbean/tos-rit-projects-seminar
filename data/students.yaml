@@ -22,8 +22,8 @@
 
 - name:     Ralph Bean
   rit_dce:  rjbpop
-  blog:     threebean.wordpress.com
+  blog:     http://threebean.wordpress.com
   irc:      threebean
   forges:
-    - github.com/ralphbean
-    - bitbucket.org/ralphbean
+    - http://github.com/ralphbean
+    - http://bitbucket.org/ralphbean
