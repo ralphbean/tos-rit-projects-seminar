@@ -27,3 +27,10 @@
   forges:
     - github.com/ralphbean
     - bitbucket.org/ralphbean
+- name:     Remy DeCausemaker
+  rit_dce:  remydcsi
+  blog:     foss.rit.edu/blog/decause
+  irc:      decause
+  forges:
+    - github.com/decause
+    - bitbucket.org/decause
