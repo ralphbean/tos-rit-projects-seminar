@@ -292,7 +292,9 @@ derived from one of the course's two textbooks, `Making Isometric Social
 Real-Time Games with HTML5, CSS3, and Javascript
 <http://www.amazon.com/Making-Isometric-Real-Time-JavaScript-ebook/dp/B005KOJ4DK/ref=dp_kinw_strp_1?ie=UTF8&m=AG56TWVU5XWC2>`_.
 
-.. TODO -- add links to those two assignments
+There are two assignments:
+ - :doc:`program/1`
+ - :doc:`program/2`
 
 ----
 
