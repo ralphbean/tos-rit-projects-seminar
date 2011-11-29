@@ -24,7 +24,7 @@ means of communication for a `FLOSS
 <http://en.wikipedia.org/wiki/Free_and_open_source_software>`_ community,
 particularly for `informal` communication.
 
-There is a course `IRC` channel on irc.freenode.net.  The channel is
+There is a course `IRC` channel on ``irc.freenode.net``.  The channel is
 ``#floss-seminar``.  Communicating regularly in `IRC` factors into the `FLOSS
 Dev Practices` component of your final grade.
 
@@ -37,7 +37,7 @@ Dev Practices` component of your final grade.
 
  - Choose a nick and `register yourself with the NickServ
    <http://freenode.net/faq.shtml#userregistration>`_.
- - Connect to ``#floss-seminar`` and introduce yourself.
+ - Connect to ``#floss-seminar`` on ``irc.freenode.net`` and introduce yourself.
 
    - The instructor's nick is ``threebean``.
 
