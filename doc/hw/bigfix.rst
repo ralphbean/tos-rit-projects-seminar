@@ -22,6 +22,7 @@ projects to investigate off the top of your head, here's a list of suggestions.
  - `liveusb-creator <https://fedorahosted.org/liveusb-creator/>`_
  - The `Mozilla Project <https://bugzilla.mozilla.org/>`_
  - `node.js <http://nodejs.org/>`_
+ - `pandas <http://github.com/wesm/pandas>`_, a data manipulation library
  - `Pyramid (web framework) <http://docs.pylonsproject.org/>`_
  - `Toscawidgets 2 (web widgets)
    <http://tw2core.readthedocs.org/en/latest/index.html>`_
