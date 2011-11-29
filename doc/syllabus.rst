@@ -171,9 +171,16 @@ The Syllabus
 The Open Source Way
 ~~~~~~~~~~~~~~~~~~~
 
- - http://ericholscher.com/blog/2009/nov/10/what-they-didnt-teach-me-college/
- - http://maymay.net/blog/2009/02/11/how-to-start-contributing-to-open-source-projects/
- - TODO, gather more articles here.
+ - `What they didn't teach me in college
+   <http://ericholscher.com/blog/2009/nov/10/what-they-didnt-teach-me-college/>`_
+ - `How to Start Contributing to Open Source Projects
+   <http://maymay.net/blog/2009/02/11/how-to-start-contributing-to-open-source-projects/>`_
+ - `Understanding Open Source Licensing
+   <http://openacs.org/about/licensing/open-source-licensing>`_
+ - `Revitalizing Computing Education Through Free and Open Source Software
+   <http://www.cs.trincoll.edu/~ram/pubs/CACM09-Morelli.pdf>`_
+ - `Why Open Source Misses the Point of Free Software
+   <http://www.gnu.org/philosophy/open-source-misses-the-point.html>`_
 
 .. _2-1:
 
