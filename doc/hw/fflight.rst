@@ -115,25 +115,26 @@ the more popular sites are `github <http://github.com>`_, `bitbucket
 <http://bitbucket.org>`_, `sourceforge <http://sourceforge.net/>`_, and
 `launchpad <https://launchpad.net/>`_.
 
+For your own enlightenment, review the following comparisons of the different
+forges:
+
+ - `Timeline <http://flossmole.org/content/when-were-forges-established>`_
+ - `Metadata
+   <http://flossmole.org/content/project-metadata-matrix-june-2011>`_
+ - `Artifacts
+   <http://flossmole.org/content/artifacts-matrix-code-forges-june-2011>`_
+ - `Features
+   <http://flossmole.org/content/feature-matrix-code-forges-june-2011>`_
+ - `Revision control
+   <http://flossmole.org/content/revision-control-matrix-june-2011>`_
+ - `Policies <http://flossmole.org/content/forge-policy-matrix-june-2011>`_
+
 You'll need to create your own account on github.com.  All development for this
 course should be tracked on that forge.  Github is, after all, `the most popular
 forge <https://github.com/blog/865-github-dominates-the-forges>`_.
 
 *Tasks*:
  - Create a `github <http://github.com>`_ account if you don't already have one.
- - For your own enlightenment, review the following comparisons of the different
-   forges:
-
-   - `Timeline <http://flossmole.org/content/when-were-forges-established>`_
-   - `Metadata
-     <http://flossmole.org/content/project-metadata-matrix-june-2011>`_
-   - `Artifacts
-     <http://flossmole.org/content/artifacts-matrix-code-forges-june-2011>`_
-   - `Features
-     <http://flossmole.org/content/feature-matrix-code-forges-june-2011>`_
-   - `Revision control
-     <http://flossmole.org/content/revision-control-matrix-june-2011>`_
-   - `Policies <http://flossmole.org/content/forge-policy-matrix-june-2011>`_
 
 Patch the Course Project
 ------------------------
