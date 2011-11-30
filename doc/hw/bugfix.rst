@@ -28,6 +28,7 @@ projects to investigate off the top of your head, here's a list of suggestions.
    <http://tw2core.readthedocs.org/en/latest/index.html>`_
  - `Turbogears 2 (web framework) <http://turbogears.org/>`_
  - The `Ur-Quan Masters <http://sc2.sourceforge.net/>`_
+ - The `ManaWorld MMORPG for Linux <http://mantis.themanaworld.org/my_view_page.php>`_
 
 You might also find something neat over at bounty sites like:
 

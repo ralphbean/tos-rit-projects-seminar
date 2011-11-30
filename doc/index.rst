@@ -7,7 +7,7 @@ Teaching Open Source @ RIT -- Projects Seminar
 
    syllabus
    hw/fflight
-   hw/bigfix
+   hw/bugfix
    program/1
    hw/rubric
    hw/review
