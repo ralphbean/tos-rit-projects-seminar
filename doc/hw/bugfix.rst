@@ -32,8 +32,7 @@ projects to investigate off the top of your head, here's a list of suggestions.
 
 You might also find something neat over at bounty sites like:
 
- - http://gun.io/
- - `OpenHatch <http://openhatch.org>`_
+ - Gun.io `<http://gun.io/>`_
 
 Really, the sky is the limit here.
 
@@ -56,6 +55,23 @@ Broadly, you have two different options here.  You can
 
 In the event of the second case, make sure you file the big in the project's
 tracker before proceeding.
+
+OpenHatch.org
+~~~~~~~~~~~~~
+
+OpenHatch.org bills itself as an "Open source Involvement Engine." It's mission
+is *explicitly* to reach out to communities of developers just like the one in
+this very course, and make it trivial for new contributors to effectively cycle
+on upstream projects!
+
+You can read more about OpenHatch and it's vision `here on their wiki <https://openhatch.org/wiki/About_OpenHatch>`_
+
+For this homework assignment, you should check out:
+
+ - `OpenHatch <http://openhatch.org>`_, particularly
+ - The OpenHatch Volunteer Opportunity Finder for `Bite-sized Bugs <http://openhatch.org/search/?toughness=bitesize>`_
+ - If you want *all* the bugs, you can find them through `OpenHatch's Search <http://openhatch.org/search>`_
+
 
 Use the Source, Luke
 --------------------
