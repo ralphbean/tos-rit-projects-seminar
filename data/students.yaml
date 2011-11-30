@@ -41,3 +41,9 @@
   forges:
     - http://github.com/decause
     - http://bitbucket.org/decause
+- name:     Ross Delinger
+  rit_dce:  rad4899
+  blog:     http://blog.helixoide.com
+  irc:      rossdylan
+  forges:
+    - http://github.com/posiden
