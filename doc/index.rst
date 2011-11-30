@@ -1,4 +1,5 @@
 Teaching Open Source @ RIT -- Projects Seminar
+==============================================
 
 
 .. toctree::
