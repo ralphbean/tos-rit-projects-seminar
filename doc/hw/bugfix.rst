@@ -53,7 +53,7 @@ Broadly, you have two different options here.  You can
    tracker.
  - Find a bug yourself by using the software.
 
-In the event of the second case, make sure you file the big in the project's
+In the event of the second case, make sure you file the bug in the project's
 tracker before proceeding.
 
 OpenHatch.org
