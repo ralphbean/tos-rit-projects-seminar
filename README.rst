@@ -95,7 +95,7 @@ words/blogpost, or whatever we like.
 The data format (`YAML <http://www.yaml.org/>`_) can be a little prickly though.
 It is `whitespace-sensitive`, meaning that how many spaces you put before an
 entry on each line has an impact on how the data is interpreted.  It also means
-that tabs and spaces and distinctly different in their meaning.  It also means
+that tabs and spaces are distinctly different in their meaning.  It also means
 that editing such a file is easy to mess up.
 
 In order to ensure that you don't introduce any unparseable errors into the
@@ -109,4 +109,3 @@ virtualenv activated.
 In the root of the cloned source directory, run::
 
   $ python lib/ritfloss/model/validate.py
-
