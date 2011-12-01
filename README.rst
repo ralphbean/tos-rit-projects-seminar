@@ -16,13 +16,13 @@ scripts) you'll need to setup and activate a python `virtualenv
 <http://pypi.python.org/pypi/virtualenv>`_.  Run the following at the command
 prompt...
 
-On Windows::
+On Linux/Mac OS X::
 
  $ virtualenv --no-site-packages -p python2 ~/sphinxenv
  $ source ~/sphinxenv/bin/activate           # This activates it
  $ python setup.py develop                   # This will install packages to it
 
-On Linux/Mac OS X::
+On Windows::
 
  $ virtualenv --no-site-packages -p python2 sphinxenv
  $ sphinxenv/Scripts/activate.bat
