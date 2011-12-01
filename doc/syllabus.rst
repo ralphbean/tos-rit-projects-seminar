@@ -322,6 +322,10 @@ The rest of the students will comment on your prototype.  Take notes and:
 Your *final project* will be the culmination of the quarter's work and will be
 graded according to the :doc:`final_project_rubric`.
 
+----
+
+Additionally, graduate students are expected to complete some extra work as described in :doc:`hw/gradproj`.
+
 Lightning Talks - Extra Credit
 ------------------------------
 
