@@ -41,3 +41,9 @@
   forges:
     - http://github.com/decause
     - http://bitbucket.org/decause
+- name:     Eric Heaney
+  rit_dce:  emh5567
+  blog:     http://ericheaney.wordpress.com
+  irc:      Crystick
+  forges:
+    - http://github.com/eric-kansas
