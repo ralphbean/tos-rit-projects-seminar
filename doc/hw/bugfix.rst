@@ -120,3 +120,16 @@ possible to documentation.
 
 You will be graded on your post and the explanation of your process.  Extra
 kudos (but not extra credit) for super epic patches.
+
+An Afterthought (not required)
+------------------------------
+
+Once your patch has been accepted, mosey on over to http://ohloh.net.
+
+ - Create an account
+ - Find the project you patched
+
+   - If it doesn't exist, you can add it yourself
+
+ - "Claim your position" as the author of the commit(s) you sent in to increase
+   your rank among open source developers of the world!
