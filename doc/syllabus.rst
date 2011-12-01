@@ -5,10 +5,14 @@ Projects Seminar in FLOSS Game Development
 ------------------------------------------
 
  - Syllabus - http://ritfloss.rtfd.org/ -- (subject to change)
- - Instructor - Ralph Bean <rjbpop@rit.edu>
  - Course Number - 4080.590.01
  - Room - Orange Hall, Room 1380 (013-1380)
  - Tuesday, Thursday -- 10:00am-11:50am
+ - Instructor - Ralph Bean <rjbpop@rit.edu>
+
+   - Office:  Building 17, Room 3110 (17-3110)
+   - Office Hours:  Friday, 1:00pm-3:00pm
+
  - IRC - irc.freenode.net, ``#floss-seminar``
  - Email list - `floss-seminar@lists.rit.edu
    <https://lists.rit.edu/mailman/listinfo.cgi/floss-seminar>`_
