@@ -147,6 +147,8 @@ Inside the repository, we'll keep an index of all the students in the course and
 metadata about them (you!).
 
 *Tasks*:
+ - Load up the git cheatsheet listed at :doc:`../helpfulhints` and keep it
+   nearby.
  - Work through this `git tutorial <http://gitimmersion.com/index.html>`_ if you
    don't have any experience with git.
  - Fork `the repository
