@@ -65,3 +65,9 @@
   irc:      PhilMoc
   forges:
     - http://github.com/PhilMoc
+- name:     Kai Ito
+  rit_dce:  kxi8435
+  blog:     http://kaeedo.tumblr.com/tagged/floss
+  irc:      kaeedo
+  forges:
+    - https://github.com/kaeedo
