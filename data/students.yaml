@@ -47,6 +47,12 @@
   irc:      rossdylan
   forges:
     - http://github.com/posiden
+- name:     Taylor Rose
+  rit_dce:  tjr1351
+  blog:     http://trosehfoss.blogspot.com
+  irc:      trose
+  forges:
+    - http://github.com/tjr1351
 - name:     Gary Lake
   rit_dce:  gjl6931
   blog:     http://gligmseminar.wordpress.com
