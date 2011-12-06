@@ -25,6 +25,8 @@ Text Books
 
 .. _casual:
 
+You can :download:`download the textbooks here <textbooks.zip>`.
+
 Casual Game Design
 ~~~~~~~~~~~~~~~~~~
 `Casual Game Design:  Designing Play for the Gamer in ALL of Us
