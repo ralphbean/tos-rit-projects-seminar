@@ -53,6 +53,12 @@
   irc:      rossdylan
   forges:
     - http://github.com/posiden
+- name:     Lorin Petersen
+  rit_dce:  lep3070
+  blog:     http://eloreyen.wordpress.com
+  irc:      Lo-Rin
+  forges:
+    - http://github.com/eloreyen
 - name:     Taylor Rose
   rit_dce:  tjr1351
   blog:     http://trosehfoss.blogspot.com
