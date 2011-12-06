@@ -27,6 +27,12 @@
   forges:
     - http://github.com/ralphbean
     - http://bitbucket.org/ralphbean
+- name:     Vincent Cardinale
+  rit_dce:  vmc1702
+  blog:     http://chenzo545.wordpress.com/
+  irc:      Chips545
+  forges:
+    - http://github.com/Chips545
 - name:     Nathaniel Case
   rit_dce:  ndc8551
   blog:     http://blog.linkybook.com
