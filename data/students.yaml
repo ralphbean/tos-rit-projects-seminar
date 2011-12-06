@@ -77,6 +77,12 @@
   irc:      Crystick
   forges:
     - http://github.com/eric-kansas
+- name:     Jonathan Hughes
+  rit_dce:  jbh1338
+  blog:     http://getgoodatfloss.tumblr.com
+  irc:      JaceTwice
+  forges:
+    - http://github.com/JaceTwice
 - name:     Philip Moccio
   rit_dce:  pam5822
   blog:     http://pmoccioportfolio.blogspot.com/
