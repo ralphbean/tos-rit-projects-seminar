@@ -6,6 +6,7 @@ Teaching Open Source @ RIT -- Projects Seminar
    :maxdepth: 2
 
    syllabus
+   lectures
    helpfulhints
    README
    hw/fflight
