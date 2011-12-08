@@ -1,0 +1,60 @@
+HTML5 - Programming Assignment #1
+=================================
+
+For this assignment you'll be combining examples 13 and 14 from the book into a
+tech demo (still not actually a game).
+
+ - `Example 13 <https://github.com/ralphbean/Making-Isometric-Real-time-Games/blob/master/examples/ex13-isogrid-buildings.html>`_
+ - `Example 14 <https://github.com/ralphbean/Making-Isometric-Real-time-Games/blob/master/examples/ex14-gui.html>`_
+
+While they are both good examples that demonstrate some of the basic features of
+the ``<canvas>`` element and its 2d context, they suffer from a few deficincies.
+Fix these as you rewrite and combine them.  Do as you see fit, you'll be
+expanding on these examples for the second homework (:doc:`2`), so better to
+code well now than suffer through bad code later.
+
+Use FLOSS development practices while working on this.  From the start, keep
+your code in a git repository linked to github.  "Commit early and commit
+often."  You'll need to create a new repository on github for this.
+
+As far as combining the examples goes, your demo will need to feature the
+ability to:
+
+ - Place and destroy buildings.
+
+As far as fixing up deficiencies, you need to:
+
+ - Move all javascript out of the ``<script>`` tags and into its own ``.js``
+   files.  Your main page can still have one or two javascript make calls to
+   initialize your demo.
+ - Convert the code from a half-procedural/half-object-oriented pattern to be
+   fully object-oriented.  You should have differenet objects here and not just
+   cram everything into the ``Game`` object from example 14.
+ - Replace the event handling and listening with `jQuery <http://jquery.com/>`_.
+ - Replace the style attribute manipulation on DOM elements outside the
+   ``<canvas>`` element also with `jQuery <http://jquery.com/>`_.
+
+Deliverable
+-----------
+
+Write a blog post explaining what changes you made and why you made them.
+
+Simply include a link to your github repository for proof of your work.
+
+Optional - use a framework
+--------------------------
+
+You may, if you like, move ahead and use a javascript game framework instead of
+jQuery and the examples from the book.  Your project will need to have the same
+functionality as if it were composed of the two examples, but this will require
+a larger rewrite (although with much cleaner, denser code).  Definitely make
+note of this in your blogpost if you choose this route.
+
+Here are some examples of frameworks you could use:
+
+ - gameQuery - http://gamequery.onaluf.org/
+ - limeJS - http://badassjs.com/post/3200945950/limejs
+ - melonJS - http://www.melonjs.org/
+ - processingJS - http://processingjs.org/
+ - akihabara - http://www.kesiev.com/akihabara/
+ - effect - http://www.effectgames.com/effect/
