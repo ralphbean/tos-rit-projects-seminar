@@ -43,10 +43,14 @@ Week 02, Day 2:  Introduction to HTML5
      - examples/ex13-isogrid-buildings.html
      - examples/ex14-gui.html
 
-   - jQuery.js
-   - spritely
-   - Modernizr.js
-   - DuckHunt
+       - `Modernizr.js <http://www.modernizr.com/>`_
+
+   - `jQuery <http://jquery.com/>`_
+   - `spritely <http://spritely.net/>`_
+
+     - Here's the `spritely source code <https://gist.github.com/1447119>`_
+
+   - `DuckHunt <https://github.com/ralphbean/DuckHunt-JS>`_
 
  - Javascript Game Frameworks
 
