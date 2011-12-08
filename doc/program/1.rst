@@ -34,6 +34,9 @@ As far as fixing up deficiencies, you need to:
  - Replace the style attribute manipulation on DOM elements outside the
    ``<canvas>`` element also with `jQuery <http://jquery.com/>`_.
 
+   - For example, the lines where they set ``className = null`` and use
+     ``.setAttribute(...)`` are so five years ago.
+
 Deliverable
 -----------
 
