@@ -34,6 +34,24 @@ Week 02, Day 2:  Introduction to HTML5
 
  - Lightning Talks
  - Introduction to HTML5
+
+   - The book
+
+     - clone from github -
+       https://github.com/ralphbean/Making-Isometric-Real-time-Games
+     - examples/ex2-fps-requestAnimationFrame.html
+     - examples/ex13-isogrid-buildings.html
+     - examples/ex14-gui.html
+
+       - `Modernizr.js <http://www.modernizr.com/>`_
+
+   - `jQuery <http://jquery.com/>`_
+   - `spritely <http://spritely.net/>`_
+
+     - Here's the `spritely source code <https://gist.github.com/1447119>`_
+
+   - `DuckHunt <https://github.com/ralphbean/DuckHunt-JS>`_
+
  - Javascript Game Frameworks
 
    - gameQuery - http://gamequery.onaluf.org/
