@@ -27,6 +27,12 @@
   forges:
     - http://github.com/ralphbean
     - http://bitbucket.org/ralphbean
+- name:     Vincent Cardinale
+  rit_dce:  vmc1702
+  blog:     http://chenzo545.wordpress.com/
+  irc:      Chips545
+  forges:
+    - http://github.com/Chips545
 - name:     Nathaniel Case
   rit_dce:  ndc8551
   blog:     http://blog.linkybook.com
@@ -47,3 +53,51 @@
   irc:      rossdylan
   forges:
     - http://github.com/posiden
+- name:     Lorin Petersen
+  rit_dce:  lep3070
+  blog:     http://eloreyen.wordpress.com
+  irc:      Lo-Rin
+  forges:
+    - http://github.com/eloreyen
+- name:     Taylor Rose
+  rit_dce:  tjr1351
+  blog:     http://trosehfoss.blogspot.com
+  irc:      trose
+  forges:
+    - http://github.com/tjr1351
+- name:     Gary Lake
+  rit_dce:  gjl6931
+  blog:     http://gligmseminar.wordpress.com
+  irc:      LakeEffect
+  forges:
+    - http://github.com/gjl6931
+- name:     Eric Heaney
+  rit_dce:  emh5567
+  blog:     http://ericheaney.wordpress.com
+  irc:      Crystick
+  forges:
+    - http://github.com/eric-kansas
+- name:     Jonathan Hughes
+  rit_dce:  jbh1338
+  blog:     http://getgoodatfloss.tumblr.com
+  irc:      JaceTwice
+  forges:
+    - http://github.com/JaceTwice
+- name:     Philip Moccio
+  rit_dce:  pam5822
+  blog:     http://pmoccioportfolio.blogspot.com/
+  irc:      PhilMoc
+  forges:
+    - http://github.com/PhilMoc
+- name:     Kai Ito
+  rit_dce:  kxi8435
+  blog:     http://kaeedo.tumblr.com/tagged/floss
+  irc:      kaeedo
+  forges:
+    - https://github.com/kaeedo
+- name:     Benjamin Boozer
+  rit_dce:  bbb8210
+  blog:     http://aiflossgd.blogspot.com/
+  irc:      Rabenvald
+  forges:
+    - https://github.com/Rabenvald

@@ -5,10 +5,14 @@ Projects Seminar in FLOSS Game Development
 ------------------------------------------
 
  - Syllabus - http://ritfloss.rtfd.org/ -- (subject to change)
- - Instructor - Ralph Bean <rjbpop@rit.edu>
  - Course Number - 4080.590.01
  - Room - Orange Hall, Room 1380 (013-1380)
  - Tuesday, Thursday -- 10:00am-11:50am
+ - Instructor - Ralph Bean <rjbpop@rit.edu>
+
+   - Office:  Building 17, Room 3110 (17-3110)
+   - Office Hours:  Friday, 1:00pm-3:00pm
+
  - IRC - irc.freenode.net, ``#floss-seminar``
  - Email list - `floss-seminar@lists.rit.edu
    <https://lists.rit.edu/mailman/listinfo.cgi/floss-seminar>`_
@@ -20,6 +24,8 @@ Text Books
 ----------
 
 .. _casual:
+
+You can :download:`download the textbooks here <textbooks.zip>`.
 
 Casual Game Design
 ~~~~~~~~~~~~~~~~~~
@@ -98,17 +104,17 @@ Schedule
 |1   |1  | Introductions, Syllabus,   |:ref:`1-1`|:doc:`hw/fflight`  |                   |
 |    |   | Mailman, IRC, git, github  |          |                   |                   |
 +    +---+----------------------------+----------+-------------------+-------------------+
-|    |2  | Bugfix deep dive           |:ref:`1-2`|:doc:`hw/bigfix`   |                   |
+|    |2  | Bugfix deep dive           |:ref:`1-2`|:doc:`hw/bugfix`   |                   |
 +----+---+----------------------------+----------+-------------------+-------------------+
 |2   |1  | Casual Games: Matching,    |:ref:`2-1`|                   |:doc:`hw/fflight`  |
 |    |   | Sorting, and Seeking       |          |                   |                   |
 +    +---+----------------------------+----------+-------------------+-------------------+
 |    |2  | Introduction to HTML5      |:ref:`2-2`|:doc:`program/1`   |                   |
 +----+---+----------------------------+----------+-------------------+-------------------+
-|3   |1  | Casual Games: Managing,    |:ref:`3-1`|                   |:doc:`hw/bigfix`   |
+|3   |1  | Casual Games: Managing,    |:ref:`3-1`|                   |                   |
 |    |   | Hitting, and Chaining      |          |                   |                   |
 +    +---+----------------------------+----------+-------------------+-------------------+
-|    |2  | Audio, WebWorkers, and     |:ref:`3-2`|:doc:`hw/rubric`   |:doc:`program/1`   |
+|    |2  | Audio, WebWorkers, and     |:ref:`3-2`|:doc:`hw/rubric`   |                   |
 |    |   | CoffeeScript               |          |                   |                   |
 +----+---+----------------------------+----------+-------------------+-------------------+
 |    |   | <!--                       |          |                   |                   |
@@ -116,8 +122,8 @@ Schedule
 |    |   |     Holiday Break          |          |                   |                   |
 |    |   | -->                        |          |                   |                   |
 +----+---+----------------------------+----------+-------------------+-------------------+
-|4   |1  | Pitch Session : Talk about |          |                   |                   |
-|    |   | your game.                 |          |                   |                   |
+|4   |1  | Pitch Session : Talk about |          |                   | :doc:`program/1`  |
+|    |   | your game.                 |          |                   | :doc:`hw/bugfix`  |
 +    +---+----------------------------+----------+-------------------+-------------------+
 |    |2  | Paper Prototypes : Lecture |          |                   |                   |
 |    |   | and Build                  |          |                   |                   |
@@ -317,6 +323,10 @@ The rest of the students will comment on your prototype.  Take notes and:
 
 Your *final project* will be the culmination of the quarter's work and will be
 graded according to the :doc:`final_project_rubric`.
+
+----
+
+Additionally, graduate students are expected to complete some extra work as described in :doc:`hw/gradproj`.
 
 Lightning Talks - Extra Credit
 ------------------------------
