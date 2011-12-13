@@ -86,7 +86,4 @@ Week 03, Day 1:  Managing, Hitting, and Chaining
 
  - Hitting
 
-   - Whac-a-mole -- TODO, find a better link
-     http://www.fupa.com/play/BoardGame-free-games/whac-a-mole_v1.html
-
-     - Compare with Wii Tennis
+   - Whac-a-mole vs Wii Tennis
