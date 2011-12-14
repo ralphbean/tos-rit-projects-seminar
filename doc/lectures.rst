@@ -63,3 +63,27 @@ Week 02, Day 2:  Introduction to HTML5
 
  - :doc:`program/1`
 
+
+Week 03, Day 1:  Managing, Hitting, and Chaining
+------------------------------------------------
+
+ - Managing
+
+   - Diner Dash http://www.playfirst.com/game/dinerdash
+   - Cake Mania http://www.bigfishgames.com/download-games/898/cakemania/index.html
+   - Insaniquarium http://www.popcap.com/games/insaniquarium/web
+
+     - Requires ActiveX
+
+- Chaining
+
+   - Revisit,
+
+     - Diner Dash
+     - Insaniquarium
+     - Tetris
+     - Scrabble
+
+ - Hitting
+
+   - Whac-a-mole vs Wii Tennis

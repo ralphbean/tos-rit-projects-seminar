@@ -30,6 +30,15 @@ projects to investigate off the top of your head, here's a list of suggestions.
  - The `Ur-Quan Masters <http://sc2.sourceforge.net/>`_
  - The `ManaWorld MMORPG for Linux <http://mantis.themanaworld.org/my_view_page.php>`_
 
+A little more focused, here is a list of open source javascript/html5 game
+engines and links to their bug trackers.
+
+ - `gameQuery <https://github.com/onaluf/gameQuery/issues>`_
+ - `limeJS <https://github.com/digitalfruit/limejs/issues>`_
+ - `melonJS <https://github.com/obiot/melonJS/issues>`_
+ - `akihabara <https://github.com/kesiev/akihabara/issues>`_
+ - `effect <https://github.com/jhuckaby/Effect-Games/issues>`_
+
 You might also find something neat over at bounty sites like:
 
  - Gun.io `<http://gun.io/>`_
