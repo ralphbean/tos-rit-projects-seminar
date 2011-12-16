@@ -1,41 +1,30 @@
-Grad Students - Extra Responsibilities
-======================================
+Grad Student Responsibilities
+=============================
 
-This is a skeleton of ideas for extra duties of the grad students of the class.
+Students registered for this course's graduate section will be responsible for
+two or more of the following deliverables as part of their evaluation in this
+course:
 
-Office Hours
-------------
-
-One idea was to hold 'office hours' in the FOSSBox at certain hours to help
-other students with the details of open source and git.
-
-
-Commarch
---------
-
-A detailed commarch assignment, either with something we're familiar with or a
-paricular success/failure story in open source would help other students
-understand the good and bad practices of open source development.
-
-Problem: adds work but doesn't do much for the grad students.
-
-Storytelling
-~~~~~~~~~~~~
-
-Also falls under the Commarch category, but in a more structured manner:
-
-    - Provide periodic blog posts, possibly bi-weekly
-    - Correspond with course milestones
-      (e.g. Project team formation, initial brainstorming of ideas,
-       play-testing phase, final releases, etc...)
-    - Highlight particularly interesting/representative stories from
-      student teams or student blog posts.
-
-Quarterly Hackathons
---------------------
-
-Strategically placed hackathons will help students to complete their projects.
-Proposed dates would be:
-    - Week 3 before we leave for winter break
-    - Week 8 before finals week(s) get too crazy
-    - Week 11 right before final projects are due
+#. Storytelling
+    In addition to regular coursework, graduate students may write (2) or
+    more major articles related to the course and it's activities over the
+    course of the quarter. These posts will be no less than 500 words, and
+    will preferably be posted on other upstream websites.
+#. Hackathons
+    Graduate students must not only attend, but also co-organize at least
+    (2) hackathons per quarter. Hackathons will be at least 8 hours in
+    length, and will be open to students, and encourage community members
+    to attend.
+#. Course Support
+    Over the duration of the quarter, graduate students may contribute
+    useful tools, scripts, utilities, or other programs and applications
+    that assist the professor in gathering data, metrics, and insight about
+    the students and their course related activities. These tools, like all
+    code developed in this course, must be released under an OSI approved
+    license.
+#. Office Hours
+    In addition to class time, Graduate Students may hold office hours or
+    study sessions for students to work together and ask questions. Grad
+    students will make themselves available during these designated times.
+    Optionally, the professor may conduct office hours in conjunction with,
+    or complementary to, graduate student hours.

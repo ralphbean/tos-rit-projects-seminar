@@ -340,3 +340,9 @@ You will receive +1 extra credit points towards your final grade for every
 lightning talk you give.  Only the first three lightning talks offered will be
 allowed during a given class.  Talks will be chosen from among those offered by
 students on a FIFO basis.
+
+Graduate Students
+-----------------
+
+Graduate students have extra responsibilities which are detailed here:
+:doc:`hw/gradproj`.
