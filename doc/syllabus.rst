@@ -247,6 +247,12 @@ Isometric - Week 4
 Grading
 -------
 
+Assignments are due at midnight of the day they are marked as due.
+
+Late submissions will be deducted 10% per day they are late.
+
+----
+
 Your final grade for the quarter will be derived from the following weights.
 
 +--------------------------------------------------------+--------------+
