@@ -106,6 +106,8 @@ Week 04, Day 1
  - WebWorkers
  - CoffeeScript
 
+   - `Online interpreter
+     <http://coffeescript.org/#try:%23%20Assignment%3A%0Anumber%20%20%20%3D%2042%0Aopposite%20%3D%20true%0A%0A%23%20Conditions%3A%0Anumber%20%3D%20-42%20if%20opposite%0A%0A%23%20Functions%3A%0Asquare%20%3D%20(x)%20-%3E%20x%20*%20x%0A%0A%23%20Arrays%3A%0Alist%20%3D%20%5B1%2C%202%2C%203%2C%204%2C%205%5D%0A%0A%23%20Objects%3A%0Amath%20%3D%0A%20%20root%3A%20%20%20Math.sqrt%0A%20%20square%3A%20square%0A%20%20cube%3A%20%20%20(x)%20-%3E%20x%20*%20square%20x%0A%0A%23%20Splats%3A%0Arace%20%3D%20(winner%2C%20runners...)%20-%3E%0A%20%20print%20winner%2C%20runners%0A%0A%23%20Existence%3A%0Aalert%20%22I%20knew%20it!%22%20if%20elvis%3F%0A%0A%23%20Array%20comprehensions%3A%0Acubes%20%3D%20(math.cube%20num%20for%20num%20in%20list)%0A>`_
    - Observations
 
      - Python style whitespacing
