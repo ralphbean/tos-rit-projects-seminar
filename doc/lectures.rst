@@ -117,4 +117,4 @@ Week 04, Day 1
      - Class based inheritance
      - Comprehensions!
 
-   - Hangman
+   - `Hangman <https://github.com/ralphbean/hangman-coffee>`_
