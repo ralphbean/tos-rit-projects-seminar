@@ -87,3 +87,32 @@ Week 03, Day 1:  Managing, Hitting, and Chaining
  - Hitting
 
    - Whac-a-mole vs Wii Tennis
+
+Week 03, Day 2
+--------------
+
+Class was cancelled for the STEM/CSI hackathon!
+
+Week 04, Day 1
+--------------
+
+ - Welcome back from break.
+ - Homeworks due.  How'd it go?
+ - Game Pitches
+
+----
+
+ - ``<audio>`` tags
+ - WebWorkers
+ - CoffeeScript
+
+   - Observations
+
+     - Python style whitespacing
+     - Ruby styled lightweight syntax
+     - Concise function declarations
+     - JSLint approved
+     - Class based inheritance
+     - Comprehensions!
+
+   - Hangman
