@@ -21,7 +21,7 @@
 #    merge. 
 
 - blog: http://threebean.wordpress.com
-  feed: http://threebean.wordpress.com/category/code/feed/]
+  feed: http://threebean.wordpress.com/category/code/feed/
   forges:
     - http://github.com/ralphbean
     - http://bitbucket.org/ralphbean
@@ -29,14 +29,14 @@
   name: Ralph Bean
   rit_dce: rjbpop
 - blog: http://chenzo545.wordpress.com/
-  feed: http://chenzo545.wordpress.com/feed/]
+  feed: http://chenzo545.wordpress.com/feed/
   forges:
     - http://github.com/Chips545
   irc: Chips545
   name: Vincent Cardinale
   rit_dce: vmc1702
 - blog: http://blog.linkybook.com
-  feed: http://blog.linkybook.com/feeds/posts/default/-/FLOSS-seminar]
+  feed: http://blog.linkybook.com/feeds/posts/default/-/FLOSS-seminar
   forges:
     - http://github.com/Qalthos
     - http://gitorious.org/~qalthos
@@ -44,7 +44,7 @@
   name: Nathaniel Case
   rit_dce: ndc8551
 - blog: http://foss.rit.edu/blog/decause
-  feed: http://foss.rit.edu/blog/1/feed]
+  feed: http://foss.rit.edu/blog/1/feed
   forges:
     - http://github.com/decause
     - http://bitbucket.org/decause
@@ -52,7 +52,7 @@
   name: Remy DeCausemaker
   rit_dce: remydcsi
 - blog: http://blog.helixoide.com
-  feed: http://posiden.darkdna.net/rss]
+  feed: http://posiden.darkdna.net/rss
   forges:
     - http://github.com/posiden
   irc: rossdylan
@@ -65,49 +65,49 @@
   name: Lorin Petersen
   rit_dce: lep3070
 - blog: http://trosehfoss.blogspot.com
-  feed: http://trosehfoss.blogspot.com/feeds/posts/default]
+  feed: http://trosehfoss.blogspot.com/feeds/posts/default
   forges:
     - http://github.com/tjr1351
   irc: trose
   name: Taylor Rose
   rit_dce: tjr1351
 - blog: http://gligmseminar.wordpress.com
-  feed: http://gligmseminar.wordpress.com/feed/]
+  feed: http://gligmseminar.wordpress.com/feed/
   forges:
     - http://github.com/gjl6931
   irc: LakeEffect
   name: Gary Lake
   rit_dce: gjl6931
 - blog: http://ericheaney.wordpress.com
-  feed: http://ericheaney.wordpress.com/feed/]
+  feed: http://ericheaney.wordpress.com/feed/
   forges:
     - http://github.com/eric-kansas
   irc: Crystick
   name: Eric Heaney
   rit_dce: emh5567
 - blog: http://getgoodatfloss.tumblr.com
-  feed: http://getgoodatfloss.tumblr.com/rss]
+  feed: http://getgoodatfloss.tumblr.com/rss
   forges:
     - http://github.com/JaceTwice
   irc: JaceTwice
   name: Jonathan Hughes
   rit_dce: jbh1338
 - blog: http://pmoccioportfolio.blogspot.com/
-  feed: http://pmoccioportfolio.blogspot.com/feeds/posts/default?alt=rss]
+  feed: http://pmoccioportfolio.blogspot.com/feeds/posts/default?alt=rss
   forges:
     - http://github.com/PhilMoc
   irc: PhilMoc
   name: Philip Moccio
   rit_dce: pam5822
 - blog: http://kaeedo.tumblr.com/tagged/floss
-  feed: http://kaeedo.tumblr.com/tagged/floss/rss]
+  feed: http://kaeedo.tumblr.com/tagged/floss/rss
   forges:
     - https://github.com/kaeedo
   irc: kaeedo
   name: Kai Ito
   rit_dce: kxi8435
 - blog: http://aiflossgd.blogspot.com/
-  feed: http://aiflossgd.blogspot.com/feeds/posts/default]
+  feed: http://aiflossgd.blogspot.com/feeds/posts/default
   forges:
     - https://github.com/Rabenvald
   irc: Rabenvald

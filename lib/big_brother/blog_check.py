@@ -16,7 +16,7 @@ def ini_to_yaml():
     current = {}
     for line in planet_data:
         if line[0] == '[':
-            current['feed'] = line[1:-1]
+            current['feed'] = line[1:-2]
         elif not line == '\n':
             bits = line.split(' = ')[1].split(None, 1)
             handle = bits[0]
