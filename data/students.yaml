@@ -20,84 +20,96 @@
 #  - issue a pull request on the upstream repository to be considered for a
 #    merge. 
 
-- name:     Ralph Bean
-  rit_dce:  rjbpop
-  blog:     http://threebean.wordpress.com
-  irc:      threebean
+- blog: http://threebean.wordpress.com
+  feed: http://threebean.wordpress.com/category/code/feed/]
   forges:
     - http://github.com/ralphbean
     - http://bitbucket.org/ralphbean
-- name:     Vincent Cardinale
-  rit_dce:  vmc1702
-  blog:     http://chenzo545.wordpress.com/
-  irc:      Chips545
+  irc: threebean
+  name: Ralph Bean
+  rit_dce: rjbpop
+- blog: http://chenzo545.wordpress.com/
+  feed: http://chenzo545.wordpress.com/feed/]
   forges:
     - http://github.com/Chips545
-- name:     Nathaniel Case
-  rit_dce:  ndc8551
-  blog:     http://blog.linkybook.com
-  irc:      Qalthos
+  irc: Chips545
+  name: Vincent Cardinale
+  rit_dce: vmc1702
+- blog: http://blog.linkybook.com
+  feed: http://blog.linkybook.com/feeds/posts/default/-/FLOSS-seminar]
   forges:
     - http://github.com/Qalthos
     - http://gitorious.org/~qalthos
-- name:     Remy DeCausemaker
-  rit_dce:  remydcsi
-  blog:     http://foss.rit.edu/blog/decause
-  irc:      decause
+  irc: Qalthos
+  name: Nathaniel Case
+  rit_dce: ndc8551
+- blog: http://foss.rit.edu/blog/decause
+  feed: http://foss.rit.edu/blog/1/feed]
   forges:
     - http://github.com/decause
     - http://bitbucket.org/decause
-- name:     Ross Delinger
-  rit_dce:  rad4899
-  blog:     http://blog.helixoide.com
-  irc:      rossdylan
+  irc: decause
+  name: Remy DeCausemaker
+  rit_dce: remydcsi
+- blog: http://blog.helixoide.com
+  feed: http://posiden.darkdna.net/rss]
   forges:
     - http://github.com/posiden
-- name:     Lorin Petersen
-  rit_dce:  lep3070
-  blog:     http://eloreyen.wordpress.com
-  irc:      Lo-Rin
+  irc: rossdylan
+  name: Ross Delinger
+  rit_dce: rad4899
+- blog: http://eloreyen.wordpress.com
   forges:
     - http://github.com/eloreyen
-- name:     Taylor Rose
-  rit_dce:  tjr1351
-  blog:     http://trosehfoss.blogspot.com
-  irc:      trose
+  irc: Lo-Rin
+  name: Lorin Petersen
+  rit_dce: lep3070
+- blog: http://trosehfoss.blogspot.com
+  feed: http://trosehfoss.blogspot.com/feeds/posts/default]
   forges:
     - http://github.com/tjr1351
-- name:     Gary Lake
-  rit_dce:  gjl6931
-  blog:     http://gligmseminar.wordpress.com
-  irc:      LakeEffect
+  irc: trose
+  name: Taylor Rose
+  rit_dce: tjr1351
+- blog: http://gligmseminar.wordpress.com
+  feed: http://gligmseminar.wordpress.com/feed/]
   forges:
     - http://github.com/gjl6931
-- name:     Eric Heaney
-  rit_dce:  emh5567
-  blog:     http://ericheaney.wordpress.com
-  irc:      Crystick
+  irc: LakeEffect
+  name: Gary Lake
+  rit_dce: gjl6931
+- blog: http://ericheaney.wordpress.com
+  feed: http://ericheaney.wordpress.com/feed/]
   forges:
     - http://github.com/eric-kansas
-- name:     Jonathan Hughes
-  rit_dce:  jbh1338
-  blog:     http://getgoodatfloss.tumblr.com
-  irc:      JaceTwice
+  irc: Crystick
+  name: Eric Heaney
+  rit_dce: emh5567
+- blog: http://getgoodatfloss.tumblr.com
+  feed: http://getgoodatfloss.tumblr.com/rss]
   forges:
     - http://github.com/JaceTwice
-- name:     Philip Moccio
-  rit_dce:  pam5822
-  blog:     http://pmoccioportfolio.blogspot.com/
-  irc:      PhilMoc
+  irc: JaceTwice
+  name: Jonathan Hughes
+  rit_dce: jbh1338
+- blog: http://pmoccioportfolio.blogspot.com/
+  feed: http://pmoccioportfolio.blogspot.com/feeds/posts/default?alt=rss]
   forges:
     - http://github.com/PhilMoc
-- name:     Kai Ito
-  rit_dce:  kxi8435
-  blog:     http://kaeedo.tumblr.com/tagged/floss
-  irc:      kaeedo
+  irc: PhilMoc
+  name: Philip Moccio
+  rit_dce: pam5822
+- blog: http://kaeedo.tumblr.com/tagged/floss
+  feed: http://kaeedo.tumblr.com/tagged/floss/rss]
   forges:
     - https://github.com/kaeedo
-- name:     Benjamin Boozer
-  rit_dce:  bbb8210
-  blog:     http://aiflossgd.blogspot.com/
-  irc:      Rabenvald
+  irc: kaeedo
+  name: Kai Ito
+  rit_dce: kxi8435
+- blog: http://aiflossgd.blogspot.com/
+  feed: http://aiflossgd.blogspot.com/feeds/posts/default]
   forges:
     - https://github.com/Rabenvald
+  irc: Rabenvald
+  name: Benjamin Boozer
+  rit_dce: bbb8210
