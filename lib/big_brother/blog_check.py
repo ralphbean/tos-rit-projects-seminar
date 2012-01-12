@@ -1,5 +1,7 @@
-import pprint as pp
 import yaml
+import feedparser
+from datetime import datetime, timedelta
+import time
 
 
 planet_file = '../../planet/config.ini'
@@ -37,4 +39,42 @@ def ini_to_yaml():
     with open(yaml_file, 'w') as students:
         yaml.dump(student_data, students, default_flow_style=False)
 
-ini_to_yaml()
+def check_blogs():
+    with open(yaml_file) as students:
+        student_data = yaml.load(students)
+
+    student_posts = {}
+    target = datetime(2011, 11, 28)
+    for student in student_data:
+        when = []
+        if student.get('feed'):
+            print('Checking %s' % student['irc'])
+
+            feed = feedparser.parse(student['feed'])
+
+            size = len(feed.entries)
+            for item in feed.entries:
+                publish_time = datetime.fromtimestamp(time.mktime(item.date_parsed))
+                if publish_time < target:
+                    #print('%s is older than %s, ignoring' % (publish_time, target))
+                    continue
+                when.append(item.updated)
+
+        else:
+            print('No feed listed for %s!' % student['irc'])
+
+        student_posts[student['irc']] = len(when)
+
+    target_number = (datetime.today() - target).total_seconds() /\
+        timedelta(weeks=1).total_seconds() - 3
+    for student, count in student_posts.items():
+        if count > target_number:
+            print('+++%d %s' % (count, student))
+        elif count < target_number:
+            print('---%d %s' % (count, student))
+        else:
+            print('===%d %s' % (count, student))
+
+
+#ini_to_yaml()
+check_blogs()
