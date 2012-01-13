@@ -65,6 +65,8 @@ def check_blogs():
 
         student_posts[student['irc']] = len(when)
 
+    average = sum(student_posts.values()) / float(len(student_posts))
+    print('Average of %f posts' % average)
     target_number = (datetime.today() - target).total_seconds() /\
         timedelta(weeks=1).total_seconds() - 3
     for student, count in student_posts.items():
