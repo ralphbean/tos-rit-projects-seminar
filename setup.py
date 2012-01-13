@@ -13,6 +13,7 @@ setup(
         'Sphinx',
         'cloud_sptheme',
         'pyyaml',
+        'feedparser',
     ],
     url = "http://teachingopensource.org/index.php/RIT",
     download_url = "https://github.com/ralphbean/tos-rit-projects-seminar",
