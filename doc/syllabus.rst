@@ -132,10 +132,10 @@ Schedule
 |    |   | APIs, and `le Cloud`.      |          |                   |                   |
 |    |   | (#openshift)               |          |                   |                   |
 +----+---+----------------------------+----------+-------------------+-------------------+
-|6   |1  | Casual Games: Constructing,|:ref:`4-1`|:doc:`hw/review`   |:doc:`hw/rubric`   |
-|    |   | Socializing, and Physics   |          |                   |                   |
+|6   |1  | **No class**               |          |                   |                   |
 +    +---+----------------------------+----------+-------------------+-------------------+
-|    |2  | Guest Lecture              |          |                   |                   |
+|    |2  | Casual Games: Constructing,|:ref:`4-1`|:doc:`hw/review`   |:doc:`hw/rubric`   |
+|    |   | Socializing, and Physics   |          |                   |                   |
 +----+---+----------------------------+----------+-------------------+-------------------+
 |7   |1  | Digital Prototype : Build  |          |                   |:doc:`program/2`   |
 +    +---+----------------------------+----------+-------------------+-------------------+
