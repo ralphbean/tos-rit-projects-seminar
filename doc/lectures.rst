@@ -129,4 +129,25 @@ Week 05, Day 1
 
   - Paper prototypes revisited.
   - Decide on top three projects.
+  - Votes -
+
+    - How many per team?
+
+      - 3 teams of 4
+      - 4 teams of 3
+
+    - Which games?  `Vote on the clipboard site <https://clipboard.rit.edu/take.cfm?sid=77F39FB1>`_.
+
+      - Rabenvald - Robocode++
+      - kaeedo - Eco
+      - PhilMoc - Haunted House
+      - JaceTwice - Arrangamajig
+      - Crystick - Gold Rush
+      - LakeEffect - Helicopter Race
+      - trose/decause - FOSS
+      - Lo-Rin - Dragonfire + Maths
+      - rossdylan - Pip3z!!1
+      - Qalthos - Myst
+      - Chips545 - Moar LaZ0rs
+
   - :doc:`hw/rubric` assigned.
