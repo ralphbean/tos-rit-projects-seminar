@@ -16,4 +16,4 @@ Final Project Rubric
  - Does it meet the criteria for a Sesame games submission ? 20 points
  - Did it get a head-nod from Big Bird ? 100 points
 
-Total possible points:  282
+Total possible points:  287
