@@ -133,6 +133,7 @@ Week 05, Day 1
 
     - How many per team?
 
+      - 2 teams of 6
       - 3 teams of 4
       - 4 teams of 3
 
