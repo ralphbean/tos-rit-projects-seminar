@@ -19,9 +19,17 @@ An excerpt from :doc:`../syllabus`:
 
 Part of the experience of being an open source developer is the `instrinsic motivation` that drives you to build open software.  That motivation can be different for each person.  Its not something that is ever taught and is difficult to develop into a course curriculum for sure!
 
-Your assignment here is to take part in creating :doc:`../final_project_rubric`.  You must
-fork the github repo of the course content, commit patches to the document, push
-to your github repo and issue pull requests.
+Your assignment here is to take part in creating :doc:`../final_project_rubric`.
+
+You should have divided up into your teams for the final project by this point.  Do the following with your github accounts to setup both for the final project and for this homework:
+
+ - Designate one person from your team whose github account will be the `primary` account for your team.  The primary designee will be responsible for merging `pull requests` from their teammates both for the final project and for this homework.
+ - All other members of your team should:
+
+   - Delete their ``tos-rit-projects-seminar`` repositories on github.
+   - Fork the ``tos-rit-projects-seminar`` repo from their team's `primary` account (the designee's account).
+
+You will be responsible in this homework for forking your team's repo as described above, committing patches to the  document (:doc:`../final_project_rubric`), pushing to your own github repo and issuing pull requests.  You may add to the document as well as delete from it.
 
 Although open source development is typically thought of as a `cooperative` mode of production, some participants derive their motivation from a competitive outlook towards their peer developers.  As an experiment, you will all be graded in competition with one another for this assignment.
 
