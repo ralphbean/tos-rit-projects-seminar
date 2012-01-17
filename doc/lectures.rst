@@ -118,3 +118,15 @@ Week 04, Day 1
      - Comprehensions!
 
    - `Hangman <https://github.com/ralphbean/hangman-coffee>`_
+
+Week 04, Day 2
+--------------
+
+  - Paper prototypes
+
+Week 05, Day 1
+--------------
+
+  - Paper prototypes revisited.
+  - Decide on top three projects.
+  - :doc:`hw/rubric` assigned.
