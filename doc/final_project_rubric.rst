@@ -11,5 +11,9 @@ Final Project Rubric
  - Does it use AJAX? 2 points
  - Does it use COMET? 5 points
  - Does it hook into http://identi.ca ? 5 points
+ - Does it meet criteria for a STEM challenge submission ? 20 points
+ - Did it place in the STEM challenge ? 100 points
+ - Does it meet the criteria for a Sesame games submission ? 20 points
+ - Did it get a head-nod from Big Bird ? 100 points
 
-Total possible points:  42
+Total possible points:  282
