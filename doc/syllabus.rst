@@ -114,7 +114,7 @@ Schedule
 |3   |1  | Casual Games: Managing,    |:ref:`3-1`|                   |                   |
 |    |   | Hitting, and Chaining      |          |                   |                   |
 +    +---+----------------------------+----------+-------------------+-------------------+
-|    |2  | Audio, WebWorkers, and     |:ref:`3-2`|:doc:`hw/rubric`   |                   |
+|    |2  | Audio, WebWorkers, and     |:ref:`3-2`|                   |                   |
 |    |   | CoffeeScript               |          |                   |                   |
 +----+---+----------------------------+----------+-------------------+-------------------+
 |    |   | <!--                       |          |                   |                   |
@@ -128,20 +128,21 @@ Schedule
 |    |2  | Paper Prototypes : Lecture |          |                   |                   |
 |    |   | and Build                  |          |                   |                   |
 +----+---+----------------------------+----------+-------------------+-------------------+
-|5   |1  | Casual Games: Constructing,|:ref:`4-1`|:doc:`hw/review`   |                   |
-|    |   | Socializing, and Physics   |          |                   |                   |
+|5   |1  | Paper Prototypes : (con't) |          |:doc:`hw/rubric`   |                   |
+|    |   | Project Decisions          |          |                   |                   |
 +    +---+----------------------------+----------+-------------------+-------------------+
-|    |2  | Server choices, Social     |:ref:`4-2`|:doc:`program/2`   | :doc:`hw/rubric`  |
+|    |2  | Server choices, Social     |:ref:`4-2`|:doc:`program/2`   |                   |
 |    |   | APIs, and `le Cloud`.      |          |                   |                   |
 |    |   | (#openshift)               |          |                   |                   |
 +----+---+----------------------------+----------+-------------------+-------------------+
-|6   |1  | Paper Prototypes : Play    |          |                   |:doc:`hw/review`   |
+|6   |1  | Casual Games: Constructing,|:ref:`4-1`|:doc:`hw/review`   |:doc:`hw/rubric`   |
+|    |   | Socializing, and Physics   |          |                   |                   |
 +    +---+----------------------------+----------+-------------------+-------------------+
-|    |2  | Guest Lecture              |          |                   |:doc:`program/2`   |
+|    |2  | Guest Lecture              |          |                   |                   |
 +----+---+----------------------------+----------+-------------------+-------------------+
-|7   |1  | Digital Prototype : Build  |          |                   |                   |
+|7   |1  | Digital Prototype : Build  |          |                   |:doc:`program/2`   |
 +    +---+----------------------------+----------+-------------------+-------------------+
-|    |2  | Digital Prototype : Play   |          |                   |                   |
+|    |2  | Digital Prototype : Play   |          |                   |:doc:`hw/review`   |
 +----+---+----------------------------+----------+-------------------+-------------------+
 |8   |1  | Digital Prototype : Report |          |                   |                   |
 |    |   | and Revise                 |          |                   |                   |
