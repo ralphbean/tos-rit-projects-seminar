@@ -10,4 +10,4 @@ Final Project Rubric
  - Is it balanced (no first player bias, n-of-a-kinds as worth it as suits, etc)? 1 to 10 points.
 
 
-Total possible points:  40
+Total possible points:  60
