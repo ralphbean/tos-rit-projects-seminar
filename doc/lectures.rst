@@ -160,4 +160,11 @@ Week 05, Day 2
 
    - Teams and :doc:`hw/rubric`
 
+ - Dues homeworks
+
+   - :doc:`hw/rubric` due next Thursday.
+   - :doc:`program/2` due the Tuesday after that.
+
+ - Class this coming Tuesday will be a working session on :doc:`program/2`.
+
  - Walk through :doc:`program/2`
