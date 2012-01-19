@@ -1,0 +1,43 @@
+HTML5 - Programming Assignment #2
+=================================
+
+Required technology overview
+----------------------------
+
+ - Take a look at openshift ``rhc`` tools.
+
+   - Create an openshift account.
+   - Install them using `these instructions <https://openshift.redhat.com/app/express#quickstart>`_.
+    
+     - Follow only step 1.
+
+ - Take a look at `lmacken's openshift-quickstarter <https://github.com/lmacken/openshift-quickstarter>`_
+
+   - Use it to create your first app.
+
+ - Take a look at the `Facebook API <http://developers.facebook.com/docs/guides/web/#login>`_.
+
+   - Register `your site <https://developers.facebook.com/apps/>`_.
+   - Use the API to auth against your app, get friends lists.
+
+Assignment
+----------
+
+For this you'll be taking your product from :doc:`1`, hosting it on the cloud,
+and connecting it to Facebook authentication.
+
+Requirements:
+
+ - Your app must be hosted on http://YOURAPP-YOURDOMAIN.rhcloud.com
+ - All client-side code must be written in coffee-script.
+ - Users must login with their Facebook account.
+ - Whatever map they work on must be saved to a database.
+ - Whatever map they were working on must be re-loaded once they login.
+
+Extra Credit
+
+ - Share maps with other users on Facebook
+
+Deliverable
+
+ - Write a blog post including a link to your game and its source on http://github.com

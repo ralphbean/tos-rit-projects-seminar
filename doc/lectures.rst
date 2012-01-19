@@ -152,3 +152,12 @@ Week 05, Day 1
       - Chips545 - Moar LaZ0rs
 
   - :doc:`hw/rubric` assigned.
+
+Week 05, Day 2
+--------------
+
+ - Revisit last class
+
+   - Teams and :doc:`hw/rubric`
+
+ - Walk through :doc:`program/2`
