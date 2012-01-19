@@ -65,6 +65,8 @@ Does it contain a velociraptor?
 
 Did it get a head-nod from Big Bird?
     100 points
+Did it get a head-nod from Cookie Monster?
+    100 points
 
 FOSSly Challenges
 -----------------
