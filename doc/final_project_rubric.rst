@@ -1,4 +1,5 @@
 Final Project Rubric
+CodingRobots
 ====================
 
 Fun: 25 points
@@ -11,13 +12,14 @@ Fun: 25 points
 Aesthetics: 25 points
 --------------------
 
- - Does Melissa (Prof. Bean's girlfriend) think its pretty?  1 to 25 points.
+ - Does Melissa (Prof. Bean's girlfriend) think its pretty?  1 to 12 points.
+ - Does it have all new graphics created for it? 1 to 13 points.
 
 Compatibility: 25 points
 ------------------------
 
- - Does it run on all modern browsers?  1 to 13 points.
- - Does it run on all modern mobile devices?  1 to 12 points.
+ - Does it run well on all modern browsers?  1 to 13 points.
+ - Does it run well on all modern mobile devices?  1 to 12 points.
 
 Technical: 25 points
 --------------------
