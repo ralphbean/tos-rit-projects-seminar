@@ -14,6 +14,6 @@ Final Project Rubric
  - Does it meet criteria for a STEM challenge submission ? 20 points
  - Did it place in the STEM challenge ? 100 points
  - Does it meet the criteria for a Sesame games submission ? 20 points
- - Did it get a head-nod from Big Bird ? 100 points
+ - Did it get a head-nod from Cookie Monster ? 100 points
 
 Total possible points:  282
