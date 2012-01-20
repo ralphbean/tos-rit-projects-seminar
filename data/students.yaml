@@ -59,6 +59,7 @@
   name: Ross Delinger
   rit_dce: rad4899
 - blog: http://eloreyen.wordpress.com
+  feed: http://eloreyen.wordpress.com/feed/
   forges:
     - http://github.com/eloreyen
   irc: Lo-Rin
