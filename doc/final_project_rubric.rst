@@ -1,8 +1,8 @@
 Final Project Rubric
 ====================
 
-Gamely Challenges
------------------
+Gamely Challenges: 20 points
+----------------------------
 Is it fun?
     1 to 10 points.  Determined by classmates written review.
 
@@ -13,12 +13,12 @@ Does Melissa (Prof. Bean's girlfriend) think its pretty?
     1 to 5 points.
 
 
-Techly Challenges
------------------
-Does it run on all modern browsers?
+Techly Challenges: 17 points
+----------------------------
+Does it run well on all modern browsers?
     1 to 5 points.
 
-Does it run on all modern mobile devices?
+Does it run well on all modern mobile devices?
     1 to 5 points.
 
 Does it use AJAX?
@@ -28,8 +28,8 @@ Does it use COMET?
     5 points
 
 
-STEMly Challenges
------------------
+STEMly Challenges: 180 points
+-----------------------------
 Does it meet criteria for a STEM challenge submission?
     20 points
 
@@ -46,8 +46,8 @@ Did it place in the STEM challenge?
     100 points
 
 
-Funly Challenges
-----------------
+Funly Challenges: 215 points
+----------------------------
 Does it include a Ninja?
     1 to 3 points (for how awesome the ninja is).
 
@@ -65,12 +65,12 @@ Does it contain a velociraptor?
 
 Did it get a head-nod from Big Bird?
     100 points
+
 Did it get a head-nod from Cookie Monster?
     100 points
 
-FOSSly Challenges
------------------
-
+FOSSly Challenges: 10+ points
+-----------------------------
 Is your code hosted on an open code forge?
     1 point for each forge.
 
@@ -89,5 +89,4 @@ Are commits to the git repository "early and often"?
 Does it hook into http://identi.ca?
     5 points
 
-
-Total possible points:  282
+Total possible points:  442+
