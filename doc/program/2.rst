@@ -9,7 +9,7 @@ Required technology overview
    - Create an openshift account.
    - Install them using `these instructions <https://openshift.redhat.com/app/express#quickstart>`_.
     
-     - Follow only step 1.
+     - Follow only steps 1 and 2.
 
  - Take a look at `lmacken's openshift-quickstarter <https://github.com/lmacken/openshift-quickstarter>`_
 
