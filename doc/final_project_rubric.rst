@@ -15,7 +15,7 @@ Does Melissa (Prof. Bean's girlfriend) think its pretty?
 Is it Intuitive (easy to learn)
     1 to 10 points
 
-Does  it have a polished feel to it
+Does it have a polished feel to it
     1 to 10 points
 
 Does the game include includestructions on how to play? (tutorials, help screens, readme.txt?)
