@@ -68,6 +68,9 @@ Does it include a Pirate?
 Does it include a robot?
     1 to 3 points (for how awesome the robot is).
 
+Does it include a wizard?
+    1 to 3 points (for how awesome the wizard is).
+
 Does it include a ninja, a pirate, and a robot?
     1 to 3 points.
 
@@ -80,7 +83,7 @@ Did it get a head-nod from Big Bird?
 Did it get a head-nod from Cookie Monster?
     100 points
 
-FOSSly Challenges: 10+ points
+FOSSly Challenges: 20+ points
 -----------------------------
 Is your code hosted on an open code forge?
     1 point for each forge.
@@ -94,10 +97,16 @@ Does your project have a dedicated IRC channel?
 Does your project have a dedicated Mailing List?
     2 points.
 
+Does your project have a dedicated Web Forum?
+    3 points.
+
 Are commits to the git repository "early and often"?
     1 to 2 points
 
 Does it hook into http://identi.ca?
     5 points
+
+Is the documentation localized in another common language (e.g. German, Spanish, Russian)
+    20 points per language.
 
 Total possible points:  462+
