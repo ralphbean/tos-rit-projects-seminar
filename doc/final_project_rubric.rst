@@ -13,10 +13,10 @@ Does Melissa (Prof. Bean's girlfriend) think its pretty?
     1 to 5 points.
 	
 Is it Intuitive (easy to learn)
-	1 to 10 points
+    1 to 10 points
 	
 Does it have a polished feel to it
-	1 to 10 points
+    1 to 10 points
 
 
 Techly Challenges: 17 points
