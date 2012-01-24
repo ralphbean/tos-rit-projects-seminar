@@ -50,7 +50,13 @@ Does it meet the criteria for a Middle Scholl prize submission?
 Did it place in the STEM challenge?
     100 points
 	
-
+Teamly Challenges: 60 points
+----------------------------
+Is your team awesome? (did they pull their weight?)
+	(for 3 person teams) 20 points per awesome team member
+	(for 4 person teams) 15 points per awesome team member
+	(for 5 person teams) 12 points per awesome team member
+	
 Funly Challenges: 215 points
 ----------------------------
 Does it include a Ninja?
