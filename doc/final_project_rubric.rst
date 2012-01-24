@@ -1,7 +1,7 @@
 Final Project Rubric
 ====================
 
-Gamely Challenges: 40 points
+Gamely Challenges: 60 points
 ----------------------------
 Is it fun?
     1 to 10 points.  Determined by classmates written review.
@@ -11,6 +11,12 @@ Does Melissa (Prof. Bean's girlfriend) think its fun?
 
 Does Melissa (Prof. Bean's girlfriend) think its pretty?
     1 to 5 points.
+
+Is it Intuitive (easy to learn)
+	1 to 10 points
+
+Does it have a polished feel to it
+	1 to 10 points
 
 Does the game include instructions on how to play? (tutorials, help screens, readme.txt?)
 	1 - 10 points.
@@ -65,6 +71,7 @@ Does it include a Pirate?
 
 Does it include a robot?
     1 to 3 points (for how awesome the robot is).
+
 Does it include a wizard?
     1 to 3 points (for how awesome the wizard is).
 
