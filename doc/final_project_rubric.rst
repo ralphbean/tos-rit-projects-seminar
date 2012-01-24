@@ -11,9 +11,7 @@ Does Melissa (Prof. Bean's girlfriend) think its fun?
 
 Does Melissa (Prof. Bean's girlfriend) think its pretty?  
     1 to 5 points.
-
-
-Techly Challenges: 17 points
+Techly Challenges: 34 points
 ----------------------------
 Does it run well on all modern browsers?
     1 to 5 points.
@@ -25,6 +23,15 @@ Does it use AJAX?
     2 points
 
 Does it use COMET?
+    5 points
+
+Does it use CoffeScript?
+    1 to 5 points
+
+Does it use Python?
+    1 to 5 points
+
+Is it hosted on OpenShift or a similar PaaS?
     5 points
 
 Does it hook into Facebook
@@ -45,7 +52,6 @@ Does it meet the criteria for a Middle Scholl prize submission?
 
 Did it place in the STEM challenge?
     100 points
-
 
 Funly Challenges: 215 points
 ----------------------------
