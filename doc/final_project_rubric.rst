@@ -94,6 +94,7 @@ Does your project have a dedicated IRC channel?
 
 Does your project have a dedicated Mailing List?
     2 points.
+
 Does your project have a dedicated Web Forum?
     3 points.
 
@@ -102,6 +103,7 @@ Are commits to the git repository "early and often"?
 
 Does it hook into http://identi.ca?
     5 points
+
 Is the documentation localized in another common language (e.g. German, Spanish, Russian)
     20 points per language.
 
