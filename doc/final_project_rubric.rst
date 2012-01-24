@@ -28,8 +28,8 @@ Does it use COMET?
     5 points
 
 
-STEMly Challenges: 180 points
------------------------------
+STEMly Challenges: 80 points
+----------------------------
 Does it meet criteria for a STEM challenge submission?
     20 points
 
@@ -39,15 +39,12 @@ Does it meet the criteria for a Sesame games submission?
 Does it meet the criteria for a PBS Kids submission?
     20 points
 
-Does it meet the criteria for a Middle Scholl prize submission?
+Does it meet the criteria for a Middle School prize submission?
     20 points
 
-Did it place in the STEM challenge?
-    100 points
 
-
-Funly Challenges: 215 points
-----------------------------
+Funly Challenges: 15 points
+---------------------------
 Does it include a Ninja?
     1 to 3 points (for how awesome the ninja is).
 
@@ -62,12 +59,6 @@ Does it include a ninja, a pirate, and a robot?
 
 Does it contain a velociraptor?
     1 to 3 points ( for how awesome the raptor is ).
-
-Did it get a head-nod from Big Bird?
-    100 points
-
-Did it get a head-nod from Cookie Monster?
-    100 points
 
 FOSSly Challenges: 10+ points
 -----------------------------
@@ -88,6 +79,17 @@ Are commits to the git repository "early and often"?
 
 Does it hook into http://identi.ca?
     5 points
+
+Easy 'A' Challenges: 300 points
+-------------------------------
+Did it place in the STEM challenge?
+    100 points
+
+Did it get a head-nod from Big Bird?
+    100 points
+
+Did it get a head-nod from Cookie Monster?
+    100 points
 
 Total possible points:  442+
 ----------------------------
