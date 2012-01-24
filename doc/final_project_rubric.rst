@@ -11,7 +11,20 @@ Does Melissa (Prof. Bean's girlfriend) think its fun?
 
 Does Melissa (Prof. Bean's girlfriend) think its pretty?
     1 to 5 points.
-Techly Challenges: 34 points
+
+Is it Intuitive (easy to learn)
+    1 to 10 points
+
+Does  it have a polished feel to it
+    1 to 10 points
+
+Does the game include includestructions on how to play? (tutorials, help screens, readme.txt?)
+    1 -   10 points.
+
+Does the game give good input feedback? (sound, animation, etc...)
+    1 - 10 points.
+
+Techly Challenges: 17 points
 ----------------------------
 Does it run well on all modern browsers?
     1 to 5 points.
@@ -36,7 +49,7 @@ Is it hosted on OpenShift or a similar PaaS?
 
 Does it hook into Facebook
     2 points
-STEMly Challenges: 180 points
+STEMly Challenges: 80 points
 -----------------------------
 Does it meet criteria for a STEM challenge submission?
     20 points
@@ -50,8 +63,14 @@ Does it meet the criteria for a PBS Kids submission?
 Does it meet the criteria for a Middle School prize submission?
     20 points
 
+Teamly Challenges: 60 points
+----------------------------
+Is your team awesome? (did they pull their weight?)
+      (for 3 person teams) 20 points per awesome team member
+      (for 4 person teams) 15 points per awesomesome team member
+      (for 5 person teams) 12 points personr awesome team member
 
-Funly Challenges: 215 points
+Funly Challenges: 18 points
 ----------------------------
 Does it include a Ninja?
     1 to 3 points (for how awesome the ninja is).
