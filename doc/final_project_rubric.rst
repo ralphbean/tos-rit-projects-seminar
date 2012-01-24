@@ -31,19 +31,13 @@ Is it a complete, playable game? Are there any bugs?
 Supports 2 - 4 players?
     5 points.
 
-Game includes instructions and/or a tutorial
+Game includes instructions and/or a tutorial?
     5 points.
-
-Game supports various different screen resolutions.
-    5 points
-
-Game includes appropriate soundeffects/music and the ability to alter the game volume as well as to mute the game.
-    5 points
 
 Is it Intuitive (easy to learn)
     10 points
 
-Does it have a polished feel to it
+Does it have a polished feel to it?
     10 points
 
 Does the game include includestructions on how to play? (tutorials, help screens, readme.txt?)
@@ -54,6 +48,9 @@ Does the game give good input feedback? (sound, animation, etc...)
 
 Techly Challenges
 -----------------
+
+Game includes appropriate sound-effects/music and the ability to alter the game volume as well as to mute the game.
+    5 points
 
 Does it run well on all modern browsers?
     5 points.
@@ -81,6 +78,10 @@ Is it hosted on OpenShift or a similar PaaS?
 
 Does it hook into Facebook
     2 points
+
+Game supports various different screen resolutions.
+    5 points
+
 
 STEMly Challenges
 -----------------
