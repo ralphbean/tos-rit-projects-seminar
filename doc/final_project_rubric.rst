@@ -93,3 +93,6 @@ Did it get a head-nod from Cookie Monster?
 
 Total possible points:  442+
 ----------------------------
+
+Total needed points: 100
+------------------------
