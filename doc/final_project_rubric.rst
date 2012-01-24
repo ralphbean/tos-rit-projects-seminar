@@ -9,7 +9,7 @@ Is it fun?
 Does Melissa (Prof. Bean's girlfriend) think its fun?
     1 to 5 points.
 
-Does Melissa (Prof. Bean's girlfriend) think its pretty?  
+Does Melissa (Prof. Bean's girlfriend) think its pretty?
     1 to 5 points.
 
 
@@ -90,3 +90,4 @@ Does it hook into http://identi.ca?
     5 points
 
 Total possible points:  442+
+----------------------------
