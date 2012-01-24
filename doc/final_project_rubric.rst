@@ -27,7 +27,8 @@ Does it use AJAX?
 Does it use COMET?
     5 points
 
-
+Does it hook into Facebook
+    2 points
 STEMly Challenges: 180 points
 -----------------------------
 Does it meet criteria for a STEM challenge submission?
@@ -89,4 +90,4 @@ Are commits to the git repository "early and often"?
 Does it hook into http://identi.ca?
     5 points
 
-Total possible points:  442+
+Total possible points:  445+
