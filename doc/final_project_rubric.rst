@@ -96,4 +96,4 @@ Are commits to the git repository "early and often"?
 Does it hook into http://identi.ca?
     5 points
 
-Total possible points:  445+
+Total possible points:  442+
