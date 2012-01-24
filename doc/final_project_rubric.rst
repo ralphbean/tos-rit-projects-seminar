@@ -1,8 +1,8 @@
 Final Project Rubric
 ====================
 
-Gamely Challenges: 60 points
-----------------------------
+Gamely Challenges
+-----------------
 
 Is it fun?
     10 points.  Determined by classmates written review.
@@ -52,8 +52,9 @@ Does the game include includestructions on how to play? (tutorials, help screens
 Does the game give good input feedback? (sound, animation, etc...)
     10 points.
 
-Techly Challenges: 17 points
-----------------------------
+Techly Challenges
+-----------------
+
 Does it run well on all modern browsers?
     5 points.
 
@@ -81,8 +82,9 @@ Is it hosted on OpenShift or a similar PaaS?
 Does it hook into Facebook
     2 points
 
-STEMly Challenges: 80 points
------------------------------
+STEMly Challenges
+-----------------
+
 Does it meet criteria for a STEM challenge submission?
     20 points
 
@@ -95,15 +97,17 @@ Does it meet the criteria for a PBS Kids submission?
 Does it meet the criteria for a Middle School prize submission?
     20 points
 
-Teamly Challenges: 60 points
-----------------------------
+Teamly Challenges
+-----------------
+
 Is your team awesome? (did they pull their weight?)
       (for 3 person teams) 20 points per awesome team member
       (for 4 person teams) 15 points per awesomesome team member
       (for 5 person teams) 12 points personr awesome team member
 
-Funly Challenges: 18 points
-----------------------------
+Funly Challenges
+----------------
+
 Does it include a Ninja?
     3 points (for how awesome the ninja is).
 
@@ -122,8 +126,9 @@ Does it include a ninja, a pirate, and a robot?
 Does it contain a velociraptor?
     3 points ( for how awesome the raptor is ).
 
-FOSSly Challenges: 36+ points
------------------------------
+FOSSly Challenges
+-----------------
+
 Is your code hosted on an open code forge?
     1 point for each forge.
 
@@ -148,8 +153,9 @@ Does it hook into http://identi.ca?
 Is the documentation localized in another common language (e.g. German, Spanish, Russian)
     20 points per language.
 
-Easy 'A' Challenges: 300 points
--------------------------------
+Easy 'A' Challenges
+-------------------
+
 Did it place in the STEM challenge?
     100 points
 
@@ -158,9 +164,3 @@ Did it get a head-nod from Big Bird?
 
 Did it get a head-nod from Cookie Monster?
     100 points
-
-Total possible points:  551+
-----------------------------
-
-Total needed points: 100
-------------------------
