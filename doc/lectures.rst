@@ -189,6 +189,7 @@ At present, the current release of TurboGears doesn't know it, but it needs
  - WebOb==1.0.8
 
 ::
+
     $ python setup.py develop
     $ paster setup-app development.ini
 
