@@ -184,7 +184,7 @@ Setting up your environment (on ``typhon.csh.rit.edu``)::
 
     $ cd roflapp
 
-At the current release of TurboGears doesn't know it, but needs
+At present, the current release of TurboGears doesn't know it, but it needs
  - Pylons==1.0
  - WebOb==1.0.8
 
