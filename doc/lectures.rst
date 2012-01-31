@@ -168,3 +168,67 @@ Week 05, Day 2
  - Class this coming Tuesday will be a working session on :doc:`program/2`.
 
  - Walk through :doc:`program/2`
+
+Week 06, Day 1:  TurboGears
+---------------------------
+
+Setting up your environment (on ``typhon.csh.rit.edu``)::
+
+    $ virtualenv ~/myenv
+    $ source ~/myenv/bin/python
+    $ pip install tg.devtools Pylons==1.0 WebOb==1.0.8
+    $ paster quickstart roflapp
+
+    # Yes you prefer mako templates
+    # Yes you need authentication
+
+    $ cd roflapp
+
+At the current release of TurboGears doesn't know it, but needs
+ - Pylons==1.0
+ - WebOb==1.0.8
+
+::
+    $ python setup.py develop
+    $ paster setup-app development.ini
+
+Since we're on a shared machine ``typhon.csh.rit.edu``, we'll need to pick different ports to serve our respective roflapps on.  Edit ``development.ini`` accordingly.
+
+
+Understanding Modern Web Frameworks
++++++++++++++++++++++++++++++++++++
+
+It's all about MVC -- model, view, controller.  Modern frameworks separate your code out into these three distinct, yet interdependant chunks.
+
+ - *model* (``rolfapp/model/*.py``) - contains all the database-related code
+ - *view* (``roflapp/template/*.mak`` and ``roflapp/public/*``) - contains all the presentation-related code, html markup, css, javascript, etc.
+ - *controller* (``roflapp/controllers/*.py``) - all the control-logic (or `business` logic).  Who can access what urls?  Validation of data?  Did you win an iPad?
+
+If you look inside ``roflapp`` you'll see these directories and a few other secondary ones.
+
+1) Add ``roflapp/public/testing123.html`` and browse to ``/testing123.html``.
+2) Edit ``roflapp/templates/index.html`` and browse to ``/``.
+3) Edit ``roflapp/controllers/root.py``.  Edit the ``def index(..)`` method to return a random number.  Display it in the template.
+4) Look at ``roflapp/model/``.  Edit ``roflapp/controllers/root.py`` to return the number of users.
+5) Throw an exception.
+6) Use ``tg.flash()``.
+
+Getting only slightly more serious
+++++++++++++++++++++++++++++++++++
+
+1) Edit ``roflapp/controllers/root.py``.
+   1.1) Add one method that JSON returns info about users.
+   1.2) Add another method that JSON returns {'success': True} but adds a random user with random information.
+
+2) Add ``roflapp/public/javascript/rofl.coffee``.
+   1.1) Add one function that given JSON, updates the DOM.
+   1.2) Add one function that queries the ``/query_users`` URL.
+   1.3) Add one function that POSTs to create a random user.
+   1.4) Add $(document).ready(..) to kick it all off.
+
+3) `tgext.coffeescript <http://pypi.python.org/pypi/tgext.coffeescript>`_ is helpful.
+
+Facebook, if we have time
++++++++++++++++++++++++++
+
+1) Look at `hanginwit-threebean <http://github.com/ralphbean/hanginwit-threebean/>`_ for the example.  In particular, check out ``auth-fb.coffee``.
