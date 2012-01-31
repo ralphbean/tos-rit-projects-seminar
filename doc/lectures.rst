@@ -169,13 +169,13 @@ Week 05, Day 2
 
  - Walk through :doc:`program/2`
 
-Week 06, Day 1:  TurboGears
+Week 07, Day 1:  TurboGears
 ---------------------------
 
 Setting up your environment (on ``typhon.csh.rit.edu``)::
 
     $ virtualenv ~/myenv
-    $ source ~/myenv/bin/python
+    $ source ~/myenv/bin/activate
     $ pip install tg.devtools Pylons==1.0 WebOb==1.0.8
     $ paster quickstart roflapp
 
@@ -194,6 +194,10 @@ At present, the current release of TurboGears doesn't know it, but it needs
     $ paster setup-app development.ini
 
 Since we're on a shared machine ``typhon.csh.rit.edu``, we'll need to pick different ports to serve our respective roflapps on.  Edit ``development.ini`` accordingly.
+
+Once you've made your edits, serve your app with::
+
+    $ paster serve --reload development.ini
 
 
 Understanding Modern Web Frameworks
@@ -214,20 +218,19 @@ If you look inside ``roflapp`` you'll see these directories and a few other seco
 5) Throw an exception.
 6) Use ``tg.flash()``.
 
-Getting only slightly more serious
-++++++++++++++++++++++++++++++++++
+
+Week 07, Day 2:  More TurboGears - AJAX
+---------------------------------------
 
 1) Edit ``roflapp/controllers/root.py``.
    1.1) Add one method that JSON returns info about users.
    1.2) Add another method that JSON returns {'success': True} but adds a random user with random information.
 
-2) Add ``roflapp/public/javascript/rofl.coffee``.
+2) Add ``roflapp/public/javascript/rofl.javascript``.
    1.1) Add one function that given JSON, updates the DOM.
    1.2) Add one function that queries the ``/query_users`` URL.
    1.3) Add one function that POSTs to create a random user.
    1.4) Add $(document).ready(..) to kick it all off.
-
-3) `tgext.coffeescript <http://pypi.python.org/pypi/tgext.coffeescript>`_ is helpful.
 
 Facebook, if we have time
 +++++++++++++++++++++++++
