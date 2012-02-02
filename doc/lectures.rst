@@ -228,10 +228,12 @@ Week 07, Day 2:  More TurboGears - AJAX - Back to the Cloud - Facebook
 ----------------------------------------------------------------------
 
 1) Edit ``roflapp/controllers/root.py``.
+
    1.1) Add one method that JSON returns info about users.
    1.2) Add another method that JSON returns {'success': True} but adds a new user
 
 2) Add ``roflapp/public/javascript/rofl.javascript``.
+
    1.1) Add one function that given JSON, updates the DOM.
    1.2) Add one function that queries the ``/query_users`` URL.
    1.3) Add one function that POSTs to create a random user.
