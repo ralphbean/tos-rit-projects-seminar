@@ -119,13 +119,13 @@ Week 04, Day 1
 
    - `Hangman <https://github.com/ralphbean/hangman-coffee>`_
 
-Week 04, Day 2
---------------
+Week 04, Day 2 - Paper prototypes
+---------------------------------
 
   - Paper prototypes
 
-Week 05, Day 1
---------------
+Week 05, Day 1 - Settling on projects
+-------------------------------------
 
   - Paper prototypes revisited.
   - Decide on top three projects.
@@ -153,14 +153,14 @@ Week 05, Day 1
 
   - :doc:`hw/rubric` assigned.
 
-Week 05, Day 2
---------------
+Week 05, Day 2 - Openshift
+--------------------------
 
  - Revisit last class
 
    - Teams and :doc:`hw/rubric`
 
- - Dues homeworks
+ - Due homeworks
 
    - :doc:`hw/rubric` due next Thursday.
    - :doc:`program/2` due the Tuesday after that.
@@ -168,6 +168,11 @@ Week 05, Day 2
  - Class this coming Tuesday will be a working session on :doc:`program/2`.
 
  - Walk through :doc:`program/2`
+
+Week 06, the Valley of the Shadow of Openshift
+----------------------------------------------
+
+:(
 
 Week 07, Day 1:  TurboGears
 ---------------------------
@@ -219,12 +224,12 @@ If you look inside ``roflapp`` you'll see these directories and a few other seco
 6) Use ``tg.flash()``.
 
 
-Week 07, Day 2:  More TurboGears - AJAX
----------------------------------------
+Week 07, Day 2:  More TurboGears - AJAX - Back to the Cloud - Facebook
+----------------------------------------------------------------------
 
 1) Edit ``roflapp/controllers/root.py``.
    1.1) Add one method that JSON returns info about users.
-   1.2) Add another method that JSON returns {'success': True} but adds a random user with random information.
+   1.2) Add another method that JSON returns {'success': True} but adds a new user
 
 2) Add ``roflapp/public/javascript/rofl.javascript``.
    1.1) Add one function that given JSON, updates the DOM.
