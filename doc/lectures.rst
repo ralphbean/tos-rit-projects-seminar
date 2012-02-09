@@ -243,3 +243,22 @@ Facebook, if we have time
 +++++++++++++++++++++++++
 
 1) Look at `hanginwit-threebean <http://github.com/ralphbean/hanginwit-threebean/>`_ for the example.  In particular, check out ``auth-fb.coffee``.
+
+Week 08, Day 2: Facebook Auth
+-----------------------------
+
+External docs for Facebook:
+
+ - get an appID - https://developers.facebook.com/apps
+ - general docs on fb auth - http://developers.facebook.com/docs/authentication/
+
+Modifications to your openshift app:
+
+ - tg2app/models/stuff.py - https://gist.github.com/1779952
+ - tg2app/controllers/root.py https://gist.github.com/1779931
+ - tg2app/templates/waiting.mak - https://gist.github.com/1780020
+ - tg2app/public/js/waiting.js - https://gist.github.com/1779989
+ - tg2app/lib/base.py - https://gist.github.com/1780206
+ - tg2app/templates/master.mak - https://gist.github.com/1780188
+ - tg2app/public/js/auth-faked.js - https://gist.github.com/1780093
+ - tg2app/public/js/auth-fb.js - https://gist.github.com/1780065
