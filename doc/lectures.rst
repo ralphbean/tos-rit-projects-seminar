@@ -262,3 +262,17 @@ Modifications to your openshift app:
  - tg2app/templates/master.mak - https://gist.github.com/1780188
  - tg2app/public/js/auth-faked.js - https://gist.github.com/1780093
  - tg2app/public/js/auth-fb.js - https://gist.github.com/1780065
+
+
+Week 09, Day 1
+--------------
+
+Presentations!
+
+Week 09, Day 2: Facebook Graph API
+----------------------------------
+
+ - https://developers.facebook.com/tools/explorer
+ - http://developers.facebook.com/docs/reference/api/
+ - http://threebean.org/gitlog.html
+
