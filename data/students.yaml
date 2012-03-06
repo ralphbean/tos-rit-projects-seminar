@@ -20,8 +20,8 @@
 #  - issue a pull request on the upstream repository to be considered for a
 #    merge. 
 
-- blog: http://threebean.wordpress.com
-  feed: http://threebean.wordpress.com/category/code/feed/
+- blog: http://threebean.org.blog
+  feed: http://threebean.org/blog/category/code/feed/index.xml
   forges:
     - http://github.com/ralphbean
     - http://bitbucket.org/ralphbean
