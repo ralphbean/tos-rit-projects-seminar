@@ -52,7 +52,7 @@ The "documentation" for the course (the syllabus, all the homework assignments,
 notes on the lectures) are all kept in the ``doc/`` directory of this
 repository.  The files all end with the extension ``.rst`` which is the file
 extension for the `reStructuredText <http://sphinx.pocoo.org/rest.html>`_ markup
-language.  They are all furthermore tied together the the `sphinx` framework for
+language.  They are all furthermore tied together by the `sphinx` framework for
 building integrated docs.
 
 You might notice that the syllabus, et. al. is hosted on
